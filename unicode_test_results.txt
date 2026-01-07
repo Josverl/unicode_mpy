@@ -1,0 +1,82 @@
+Unicode Test Results
+======================================================================
+
+
+File: Edge_Cases\H₂O_E=mc².txt
+Error: 
+Codepoints:
+  H = U+0048 (LATIN CAPITAL LETTER H) [Lu]
+  ₂ = U+2082 (SUBSCRIPT TWO) [No]
+  O = U+004F (LATIN CAPITAL LETTER O) [Lu]
+  _ = U+005F (LOW LINE) [Pc]
+  E = U+0045 (LATIN CAPITAL LETTER E) [Lu]
+  = = U+003D (EQUALS SIGN) [Sm]
+  m = U+006D (LATIN SMALL LETTER M) [Ll]
+  c = U+0063 (LATIN SMALL LETTER C) [Ll]
+  ² = U+00B2 (SUPERSCRIPT TWO) [No]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Latin_Western_European\O'zbek_Ismoilov.txt
+Error: mpremote: Error with transport:
+Traceback (most recent call last):
+  File "<stdin>", line 1
+SyntaxError: invalid syntax
+Codepoints:
+  O = U+004F (LATIN CAPITAL LETTER O) [Lu]
+  ' = U+0027 (APOSTROPHE) [Po]
+  z = U+007A (LATIN SMALL LETTER Z) [Ll]
+  b = U+0062 (LATIN SMALL LETTER B) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  k = U+006B (LATIN SMALL LETTER K) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  I = U+0049 (LATIN CAPITAL LETTER I) [Lu]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  m = U+006D (LATIN SMALL LETTER M) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  v = U+0076 (LATIN SMALL LETTER V) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: unicode_diagnosis_results.txt
+Error: mpremote: cp: No such file or directory: No such file or directory.
+Codepoints:
+  u = U+0075 (LATIN SMALL LETTER U) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  c = U+0063 (LATIN SMALL LETTER C) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  d = U+0064 (LATIN SMALL LETTER D) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  d = U+0064 (LATIN SMALL LETTER D) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  g = U+0067 (LATIN SMALL LETTER G) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  u = U+0075 (LATIN SMALL LETTER U) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------

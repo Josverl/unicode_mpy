@@ -149,6 +149,13 @@ Consonants: क ख ग घ ङ च छ ज झ ञ ट ठ ड ढ ण त थ 
 
 Difficult to test autmatically since as the same command works when called from a Python script with `subprocess.run(capture_output=True)`.
 
+### Possibly related issues
+
+- https://github.com/micropython/micropython/issues/15228
+  Unable to print unicode characters when running repl with mpremote
+  
+
+
 ### Root Cause Analysis
 
 **Initial hypothesis (DISPROVEN):** The hang was suspected to be in `stdout_write_bytes()`:
