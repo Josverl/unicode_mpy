@@ -1,0 +1,12 @@
+# Ligatures Test - ﬁ ﬂ ﬀ ﬃ ﬄ
+
+This file tests typographic ligatures.
+
+## Type: Alphabetic Presentation Forms (FB00-FB4F)
+Latin ligatures: ﬀ ﬁ ﬂ ﬃ ﬄ ﬅ ﬆ
+
+## Sample:
+- ﬁle (file)
+- ﬂow (flow)
+- eﬃcient (efficient)
+- aﬄuent (affluent)

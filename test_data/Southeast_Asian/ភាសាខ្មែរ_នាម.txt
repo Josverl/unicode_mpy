@@ -1,0 +1,13 @@
+# Khmer Name - ភាសាខ្មែរ នាម
+
+This file tests Khmer (Cambodian) script.
+
+## Script: Khmer
+Consonants: ក ខ គ ឃ ង ច ឆ ជ ឈ ញ ដ ឋ ឌ ឍ ណ ត ថ ទ ធ ន ប ផ ព ភ ម
+Vowels: ា ិ ី ឹ ឺ ុ ូ ួ ើ ឿ ៀ ោ ៅ
+
+## Sample Words:
+- កម្ពុជា (Cambodia)
+- សួស្តី (Hello)
+- អរគុណ (Thank you)
+- ភ្នំពេញ (Phnom Penh)

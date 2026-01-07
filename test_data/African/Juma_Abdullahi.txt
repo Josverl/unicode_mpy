@@ -1,0 +1,12 @@
+# Swahili Name - Juma Abdullahi
+
+This file tests Swahili text (mostly ASCII with some Arabic loanwords).
+
+## Script: Latin
+Standard Latin alphabet with Arabic/Persian influenced words
+
+## Sample Words:
+- Kenya (Kenya)
+- Jambo (Hello)
+- Asante (Thank you)
+- Nairobi (City)

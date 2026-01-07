@@ -1,0 +1,12 @@
+# Italian Name - Giuseppe Rosé
+
+This file tests Italian diacritical marks.
+
+## Script: Latin Extended
+Characters: À à È è É é Ì ì Ò ò Ù ù
+
+## Sample Words:
+- Italia (Italy)
+- Ciao (Hello)
+- Grazie (Thank you)
+- Roma (Rome)

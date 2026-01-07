@@ -1,0 +1,13 @@
+# Chess Symbols Test - ♔ ♕ ♖ ♗ ♘ ♙
+
+This file tests chess piece symbols.
+
+## Type: Miscellaneous Symbols (2654-265F)
+White: ♔ ♕ ♖ ♗ ♘ ♙
+Black: ♚ ♛ ♜ ♝ ♞ ♟
+
+## Sample board:
+♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
+♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟
+♙ ♙ ♙ ♙ ♙ ♙ ♙ ♙
+♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖

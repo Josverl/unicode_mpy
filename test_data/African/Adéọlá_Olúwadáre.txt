@@ -1,0 +1,12 @@
+# Yoruba Name - Adéọlá Olúwadáre
+
+This file tests Yoruba diacritical marks.
+
+## Script: Latin Extended (Yoruba)
+Characters: Ẹ ẹ Ọ ọ Ṣ ṣ (dot below) plus tone marks
+
+## Sample Words:
+- Nàìjíríà (Nigeria)
+- Ẹ kú àárọ̀ (Good morning)
+- Ẹ ṣé (Thank you)
+- Èkó (Lagos)

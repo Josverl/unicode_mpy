@@ -1,0 +1,11 @@
+# Parenthesized Letters Test - ⒜ ⒝ ⒞ ⑴ ⑵ ⑶
+
+This file tests parenthesized alphanumerics.
+
+## Type: Enclosed Alphanumerics
+Letters: ⒜ ⒝ ⒞ ⒟ ⒠ ⒡ ⒢ ⒣ ⒤ ⒥ ⒦ ⒧ ⒨
+Numbers: ⑴ ⑵ ⑶ ⑷ ⑸ ⑹ ⑺ ⑻ ⑼ ⑽
+
+## Sample:
+- ⒜⒝⒞⒟
+- ⑴⑵⑶⑷

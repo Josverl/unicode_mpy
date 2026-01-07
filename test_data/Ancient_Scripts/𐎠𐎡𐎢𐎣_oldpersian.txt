@@ -1,0 +1,11 @@
+# Old Persian Cuneiform Test - 𐎠 𐎡 𐎢 𐎣
+
+This file tests Old Persian cuneiform.
+
+## Script: Old Persian (103A0-103DF)
+Sample: 𐎠 𐎡 𐎢 𐎣 𐎤 𐎥 𐎦 𐎧 𐎨 𐎩 𐎪 𐎫
+
+## Note:
+- Used in Achaemenid Empire inscriptions
+- Deciphered by Henry Rawlinson (1830s)
+- Famous: Behistun Inscription

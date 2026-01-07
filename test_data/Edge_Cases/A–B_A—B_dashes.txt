@@ -1,0 +1,16 @@
+# En Dash and Em Dash Test - A–B A—B
+
+This file tests various dashes and hyphens.
+
+## Type: Dashes and Hyphens
+- - Hyphen-Minus (U+002D)
+- ‐ Hyphen (U+2010)
+- – En Dash (U+2013)
+- — Em Dash (U+2014)
+- ― Horizontal Bar (U+2015)
+- − Minus Sign (U+2212)
+
+## Sample:
+- 2020–2025 (range)
+- New York—London (break)
+- Self-esteem (compound)

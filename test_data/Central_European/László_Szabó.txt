@@ -1,0 +1,12 @@
+# Hungarian Name - László Szabó
+
+This file tests Hungarian diacritical marks.
+
+## Script: Latin Extended (Hungarian)
+Characters: Á á É é Í í Ó ó Ö ö Ő ő Ú ú Ü ü Ű ű
+
+## Sample Words:
+- Magyarország (Hungary)
+- Szia (Hello)
+- Köszönöm (Thank you)
+- Budapest (Capital)

@@ -1,0 +1,13 @@
+# Burmese Name - မောင် ခင်
+
+This file tests Myanmar (Burmese) script.
+
+## Script: Myanmar
+Consonants: က ခ ဂ ဃ င စ ဆ ဇ ဈ ည ဋ ဌ ဍ ဎ ဏ တ ထ ဒ ဓ န ပ ဖ ဗ ဘ မ
+Vowels: ါ ိ ီ ု ူ ေ ဲ ော
+
+## Sample Words:
+- မြန်မာ (Myanmar)
+- မင်္ဂလာပါ (Hello)
+- ကျေးဇူးတင်ပါတယ် (Thank you)
+- ရန်ကုန် (Yangon)

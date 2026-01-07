@@ -1,0 +1,13 @@
+# Tamil Name - தமிழ் செல்வன்
+
+This file tests Tamil script.
+
+## Script: Tamil
+Vowels: அ ஆ இ ஈ உ ஊ எ ஏ ஐ ஒ ஓ ஔ
+Consonants: க ங ச ஞ ட ண த ந ப ம ய ர ல வ ழ ள ற ன
+
+## Sample Words:
+- தமிழ்நாடு (Tamil Nadu)
+- வணக்கம் (Hello)
+- நன்றி (Thank you)
+- சென்னை (Chennai)

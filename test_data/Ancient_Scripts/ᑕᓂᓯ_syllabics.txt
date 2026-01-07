@@ -1,0 +1,11 @@
+# Canadian Aboriginal Syllabics Test - ᑕᓂᓯ
+
+This file tests Canadian Aboriginal Syllabics.
+
+## Script: Canadian Aboriginal (1400-167F)
+Cree syllabics: ᐁ ᐃ ᐅ ᐊ ᐯ ᐱ ᐳ ᐸ ᑌ ᑎ ᑐ ᑕ ᑫ ᑭ ᑯ ᑲ
+
+## Sample Words:
+- ᑕᓂᓯ (Hello in Cree)
+- ᐊᔨᐊᒃ (Goodbye)
+- ᓀᐦᐃᔭᐍᐏᐣ (Cree language)

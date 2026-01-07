@@ -1,0 +1,12 @@
+# Slovenian Name - Matjaž Kovač
+
+This file tests Slovenian diacritical marks.
+
+## Script: Latin Extended (Slovenian)
+Characters: Č č Š š Ž ž
+
+## Sample Words:
+- Slovenija (Slovenia)
+- Živjo (Hello)
+- Hvala (Thank you)
+- Ljubljana (Capital)

@@ -1,0 +1,12 @@
+# Basque Name - Arantxa Etxeberría
+
+This file tests Basque diacritical marks.
+
+## Script: Latin Extended (Basque)
+Characters: Ñ ñ (borrowed from Spanish), Ü ü
+
+## Sample Words:
+- Euskadi (Basque Country)
+- Kaixo (Hello)
+- Eskerrik asko (Thank you)
+- Bilbao (City)

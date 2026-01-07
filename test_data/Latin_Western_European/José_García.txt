@@ -1,0 +1,13 @@
+# Spanish Name - José García
+
+This file tests Spanish characters with accents.
+
+## Script: Latin Extended
+Common Spanish characters: á é í ó ú ñ ü ¿ ¡
+
+## Sample Words:
+- España (Spain)
+- Niño (Child)
+- Señor (Mister)
+- Mañana (Tomorrow)
+- Corazón (Heart)

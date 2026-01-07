@@ -1,0 +1,15 @@
+# Emoji Flags - 🇺🇸 🇬🇧 🇯🇵
+
+This file tests regional indicator emoji (flags).
+
+## Type: Regional Indicator Symbols
+Flags are composed of two regional indicator symbols.
+
+## Sample Flags:
+- 🇺🇸 United States
+- 🇬🇧 United Kingdom
+- 🇯🇵 Japan
+- 🇫🇷 France
+- 🇩🇪 Germany
+- 🇨🇳 China
+- 🇧🇷 Brazil

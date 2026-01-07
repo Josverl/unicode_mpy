@@ -1,0 +1,13 @@
+# Greek Name - Νικόλαος Παπαδόπουλος
+
+This file tests Greek script.
+
+## Script: Greek
+Alphabet: Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω
+With accents: ά έ ή ί ό ύ ώ
+
+## Sample Words:
+- Ελλάδα (Greece)
+- Αθήνα (Athens)
+- Ευχαριστώ (Thank you)
+- Καλημέρα (Good morning)

@@ -1,0 +1,12 @@
+# Romanian Name - Ștefan Ionescu
+
+This file tests Romanian diacritical marks.
+
+## Script: Latin Extended (Romanian)
+Characters: Ă ă Â â Î î Ș ș Ț ț
+
+## Sample Words:
+- România (Romania)
+- Salut (Hello)
+- Mulțumesc (Thank you)
+- București (Bucharest)

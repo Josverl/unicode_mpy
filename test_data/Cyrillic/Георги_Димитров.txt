@@ -1,0 +1,12 @@
+# Bulgarian Name - Георги Димитров
+
+This file tests Cyrillic script (Bulgarian).
+
+## Script: Cyrillic (Bulgarian)
+Characters: Ъ ъ (unique to Bulgarian)
+
+## Sample Words:
+- България (Bulgaria)
+- София (Sofia)
+- Благодаря (Thank you)
+- Добър ден (Good day)

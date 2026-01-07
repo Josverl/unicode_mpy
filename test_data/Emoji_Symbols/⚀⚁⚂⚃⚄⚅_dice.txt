@@ -1,0 +1,14 @@
+# Dice Symbols Test - ⚀ ⚁ ⚂ ⚃ ⚄ ⚅
+
+This file tests dice face symbols.
+
+## Type: Miscellaneous Symbols
+Dice: ⚀ ⚁ ⚂ ⚃ ⚄ ⚅
+
+## Sample:
+⚀ = 1
+⚁ = 2
+⚂ = 3
+⚃ = 4
+⚄ = 5
+⚅ = 6

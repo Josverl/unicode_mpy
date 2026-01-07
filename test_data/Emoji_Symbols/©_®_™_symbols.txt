@@ -1,0 +1,11 @@
+# Special Symbols Test - © ® ™
+
+This file tests common special symbols in filenames.
+
+## Type: Special Symbols
+Common symbols: © ® ™ § ¶ † ‡ • ° ± × ÷ √ ∞ ≈ ≠ ≤ ≥
+
+## Sample Categories:
+- Currency: $ € £ ¥ ₹ ₽ ₿
+- Math: + − × ÷ = ≠ < > ≤ ≥ ± √ ∞ ∑ π
+- Legal: © ® ™ ℠ §

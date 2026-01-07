@@ -1,0 +1,12 @@
+# Portuguese Name - João Conceição
+
+This file tests Portuguese diacritical marks.
+
+## Script: Latin Extended
+Characters: Á á À à  â Ã ã Ç ç É é Ê ê Í í Ó ó Ô ô Õ õ Ú ú Ü ü
+
+## Sample Words:
+- Brasil (Brazil)
+- Olá (Hello)
+- Obrigado (Thank you)
+- São Paulo (City)

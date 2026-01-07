@@ -1,0 +1,12 @@
+# Chinese Name (Simplified) - 王明 李华
+
+This file tests Chinese Simplified characters.
+
+## Script: Han (Simplified Chinese)
+Common characters: 的 一 是 在 不 了 有 和 人 这
+
+## Sample Words:
+- 中国 (China)
+- 北京 (Beijing)
+- 谢谢 (Thank you)
+- 你好 (Hello)

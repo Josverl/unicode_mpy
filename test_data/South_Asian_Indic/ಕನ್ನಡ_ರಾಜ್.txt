@@ -1,0 +1,13 @@
+# Kannada Name - ಕನ್ನಡ ರಾಜ್
+
+This file tests Kannada script.
+
+## Script: Kannada
+Vowels: ಅ ಆ ಇ ಈ ಉ ಊ ಋ ಎ ಏ ಐ ಒ ಓ ಔ
+Consonants: ಕ ಖ ಗ ಘ ಙ ಚ ಛ ಜ ಝ ಞ ಟ ಠ ಡ ಢ ಣ ತ ಥ ದ ಧ ನ
+
+## Sample Words:
+- ಕರ್ನಾಟಕ (Karnataka)
+- ನಮಸ್ಕಾರ (Hello)
+- ಧನ್ಯವಾದ (Thank you)
+- ಬೆಂಗಳೂರು (Bangalore)

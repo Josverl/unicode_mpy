@@ -1,0 +1,12 @@
+# Nordic Name - Søren Ødegård
+
+This file tests Scandinavian characters.
+
+## Script: Latin Extended (Nordic)
+Characters: Æ æ Ø ø Å å Ö ö Ä ä
+
+## Sample Words:
+- København (Copenhagen)
+- Göteborg (Gothenburg)
+- Smørrebrød (Open sandwich)
+- Fjäll (Mountain)

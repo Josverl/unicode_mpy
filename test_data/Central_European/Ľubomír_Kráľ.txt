@@ -1,0 +1,12 @@
+# Slovak Name - Ľubomír Kráľ
+
+This file tests Slovak diacritical marks.
+
+## Script: Latin Extended (Slovak)
+Characters: Á á Ä ä Č č Ď ď É é Í í Ĺ ĺ Ľ ľ Ň ň Ó ó Ô ô Ŕ ŕ Š š Ť ť Ú ú Ý ý Ž ž
+
+## Sample Words:
+- Slovensko (Slovakia)
+- Ahoj (Hello)
+- Ďakujem (Thank you)
+- Bratislava (Capital)

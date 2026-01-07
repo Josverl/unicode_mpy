@@ -1,0 +1,12 @@
+# Turkish Name - Ömer Çelik
+
+This file tests Turkish special characters.
+
+## Script: Latin Extended (Turkish)
+Special characters: Ç ç Ğ ğ I ı İ i Ö ö Ş ş Ü ü
+
+## Sample Words:
+- Türkiye (Turkey)
+- Merhaba (Hello)
+- Teşekkürler (Thank you)
+- İstanbul (Istanbul)

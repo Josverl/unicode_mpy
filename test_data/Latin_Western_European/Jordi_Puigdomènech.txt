@@ -1,0 +1,12 @@
+# Catalan Name - Jordi Puigdomènech
+
+This file tests Catalan diacritical marks.
+
+## Script: Latin Extended (Catalan)
+Characters: À à Ç ç É é È è Í í Ï ï Ó ó Ò ò Ú ú Ü ü L·L l·l
+
+## Sample Words:
+- Catalunya (Catalonia)
+- Hola (Hello)
+- Gràcies (Thank you)
+- Barcelona (City)

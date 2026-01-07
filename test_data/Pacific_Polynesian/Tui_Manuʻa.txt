@@ -1,0 +1,12 @@
+# Samoan Name - Tui Manuʻa
+
+This file tests Samoan special characters.
+
+## Script: Latin Extended (Samoan)
+Characters: Ā ā Ē ē Ī ī Ō ō Ū ū ʻ (koma liliu)
+
+## Sample Words:
+- Sāmoa (Samoa)
+- Talofa (Hello)
+- Faʻafetai (Thank you)
+- Apia (Capital)

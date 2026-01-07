@@ -1,0 +1,13 @@
+# Japanese Katakana Name - タケシ ユキコ
+
+This file tests Japanese Katakana script.
+
+## Script: Katakana
+Full set: ア イ ウ エ オ カ キ ク ケ コ サ シ ス セ ソ タ チ ツ テ ト
+ナ ニ ヌ ネ ノ ハ ヒ フ ヘ ホ マ ミ ム メ モ ヤ ユ ヨ ラ リ ル レ ロ ワ ヲ ン
+
+## Sample Words:
+- コンピューター (Computer)
+- インターネット (Internet)
+- カタカナ (Katakana)
+- アメリカ (America)

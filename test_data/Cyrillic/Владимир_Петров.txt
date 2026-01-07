@@ -1,0 +1,12 @@
+# Russian Name - Владимир Петров
+
+This file tests Cyrillic script (Russian).
+
+## Script: Cyrillic
+Alphabet: А Б В Г Д Е Ё Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я
+
+## Sample Words:
+- Россия (Russia)
+- Москва (Moscow)
+- Спасибо (Thank you)
+- Здравствуйте (Hello)

@@ -1,0 +1,12 @@
+# Musical Symbols - ♪♫♬
+
+This file tests musical symbols in filenames.
+
+## Type: Miscellaneous Symbols
+Musical notes: ♩ ♪ ♫ ♬ ♭ ♮ ♯
+
+## Sample Symbols:
+- Notes: ♩ ♪ ♫ ♬
+- Accidentals: ♭ ♮ ♯
+- Treble clef: 𝄞
+- Bass clef: 𝄢

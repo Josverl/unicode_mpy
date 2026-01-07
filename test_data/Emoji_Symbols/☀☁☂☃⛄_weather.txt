@@ -1,0 +1,13 @@
+# Weather Symbols - ☀ ☁ ☂ ☃ ⛄
+
+This file tests weather and celestial symbols.
+
+## Type: Miscellaneous Symbols
+Weather: ☀ ☁ ☂ ☃ ⛄ ⛅ ⛆ ❄ ❅ ❆
+Celestial: ☀ ☽ ☾ ★ ☆ ⭐ 🌙 🌟
+
+## Sample forecast:
+- ☀ Sunny
+- ☁ Cloudy
+- ☂ Rainy
+- ❄ Snow

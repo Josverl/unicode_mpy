@@ -1,0 +1,12 @@
+# Uzbek Name - O'zbek Ismoilov
+
+This file tests Uzbek Latin alphabet with apostrophes.
+
+## Script: Latin (Uzbek)
+Special characters: O' o' G' g' (with modifier apostrophe)
+
+## Sample Words:
+- O'zbekiston (Uzbekistan)
+- Salom (Hello)
+- Rahmat (Thank you)
+- Toshkent (Tashkent)

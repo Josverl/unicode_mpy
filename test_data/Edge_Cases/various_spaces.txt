@@ -1,0 +1,17 @@
+# Spaces Test - Various Spaces
+
+This file tests various space characters.
+
+## Type: Unicode Spaces
+- U+0020 Space (normal)
+- U+00A0 No-Break Space
+- U+2002 En Space
+- U+2003 Em Space
+- U+2009 Thin Space
+- U+200A Hair Space
+- U+3000 Ideographic Space
+
+## Sample (between A and B):
+A B (normal)
+A B (NBSP)
+A B (Em space)

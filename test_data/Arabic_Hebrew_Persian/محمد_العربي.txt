@@ -1,0 +1,12 @@
+# Arabic Name - محمد العربي
+
+This file tests Arabic script (right-to-left).
+
+## Script: Arabic
+Alphabet: ا ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن ه و ي
+
+## Sample Words:
+- مرحبا (Hello)
+- شكرا (Thank you)
+- السلام عليكم (Peace be upon you)
+- العربية (Arabic)

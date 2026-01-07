@@ -1,0 +1,12 @@
+# Zulu Name - Thabo Mkhize
+
+This file tests Zulu with click consonants.
+
+## Script: Latin (Zulu)
+Click consonants: c (dental click), q (alveolar click), x (lateral click)
+
+## Sample Words:
+- iNingizimu Afrika (South Africa)
+- Sawubona (Hello)
+- Ngiyabonga (Thank you)
+- eThekwini (Durban)

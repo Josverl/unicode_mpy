@@ -1,0 +1,12 @@
+# Igbo Name - Chukwuemeka Ọkonkwọ
+
+This file tests Igbo diacritical marks.
+
+## Script: Latin Extended (Igbo)
+Characters: Ị ị Ọ ọ Ụ ụ Ṅ ṅ (dot below, dot above)
+
+## Sample Words:
+- Naịjirịa (Nigeria)
+- Nnọọ (Hello)
+- Daalụ (Thank you)
+- Enugu (City)

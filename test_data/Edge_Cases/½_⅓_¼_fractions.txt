@@ -1,0 +1,11 @@
+# Fractions Test - ½ ⅓ ¼ ⅔ ¾
+
+This file tests Unicode fraction characters.
+
+## Type: Number Forms
+Common: ½ ⅓ ⅔ ¼ ¾ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅛ ⅜ ⅝ ⅞ ⅐ ⅑ ⅒
+
+## Sample:
+- ½ cup sugar
+- ¼ teaspoon salt
+- ⅔ of the way

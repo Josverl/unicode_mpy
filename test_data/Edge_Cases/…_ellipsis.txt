@@ -1,0 +1,16 @@
+# Ellipsis and Dots Test - ⋯ … ・
+
+This file tests ellipsis and dot characters.
+
+## Type: Dots and Ellipses
+- … Horizontal Ellipsis (U+2026)
+- ⋯ Midline Horizontal Ellipsis
+- ⋮ Vertical Ellipsis
+- ⋰ Up Right Diagonal Ellipsis
+- ⋱ Down Right Diagonal Ellipsis
+- · Middle Dot (U+00B7)
+- • Bullet (U+2022)
+
+## Sample:
+- Loading...
+- Item 1 · Item 2 · Item 3

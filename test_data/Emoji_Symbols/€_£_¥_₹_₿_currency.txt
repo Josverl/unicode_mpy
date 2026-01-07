@@ -1,0 +1,14 @@
+# Currency Symbols Test - € £ ¥ ₹ ₿
+
+This file tests currency symbols.
+
+## Type: Currency Symbols (20A0-20CF) and others
+Common: $ ¢ £ ¤ ¥ ₣ ₤ ₧ € ₹ ₽ ₿ ₩ ₪ ₫ ₭ ₮ ₯ ₱ ₲ ₳ ₴ ₵
+
+## Sample:
+- $100 USD
+- €85 EUR
+- £70 GBP
+- ¥12000 JPY
+- ₹7000 INR
+- ₿0.003 BTC

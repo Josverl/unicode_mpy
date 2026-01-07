@@ -1,0 +1,13 @@
+# Hindi Name - राहुल शर्मा
+
+This file tests Devanagari script (Hindi).
+
+## Script: Devanagari
+Consonants: क ख ग घ ङ च छ ज झ ञ ट ठ ड ढ ण त थ द ध न प फ ब भ म
+Vowels: अ आ इ ई उ ऊ ए ऐ ओ औ
+
+## Sample Words:
+- भारत (India)
+- नमस्ते (Hello)
+- धन्यवाद (Thank you)
+- हिंदी (Hindi)

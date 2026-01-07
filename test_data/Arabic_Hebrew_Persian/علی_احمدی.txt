@@ -1,0 +1,12 @@
+# Persian/Farsi Name - علی احمدی
+
+This file tests Persian script.
+
+## Script: Arabic Extended (Persian)
+Additional characters: پ چ ژ گ
+
+## Sample Words:
+- سلام (Hello)
+- متشکرم (Thank you)
+- ایران (Iran)
+- تهران (Tehran)

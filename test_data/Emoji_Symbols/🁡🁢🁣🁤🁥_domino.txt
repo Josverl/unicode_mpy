@@ -1,0 +1,11 @@
+# Domino Tiles Test - 🁡 🁢 🁣 🁤 🁥
+
+This file tests Domino tile symbols.
+
+## Type: Domino Tiles (1F030-1F09F)
+Horizontal: 🁡 🁢 🁣 🁤 🁥 🁦 🁧
+Vertical: 🁫 🁬 🁭 🁮 🁯 🁰 🁱
+
+## Sample:
+🁣 Double three
+🁡 Double one

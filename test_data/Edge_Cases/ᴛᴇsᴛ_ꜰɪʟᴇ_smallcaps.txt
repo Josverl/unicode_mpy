@@ -1,0 +1,11 @@
+# Small Caps Test - ᴛᴇsᴛ ꜰɪʟᴇ
+
+This file tests small capital letters.
+
+## Type: Phonetic Extensions / Latin Extended
+Small caps: ᴀ ʙ ᴄ ᴅ ᴇ ꜰ ɢ ʜ ɪ ᴊ ᴋ ʟ ᴍ ɴ ᴏ ᴘ ǫ ʀ ꜱ ᴛ ᴜ ᴠ ᴡ x ʏ ᴢ
+
+## Sample:
+- ᴛᴇsᴛ (TEST)
+- sᴍᴀʟʟ ᴄᴀᴘs (SMALL CAPS)
+- Used in linguistics and design

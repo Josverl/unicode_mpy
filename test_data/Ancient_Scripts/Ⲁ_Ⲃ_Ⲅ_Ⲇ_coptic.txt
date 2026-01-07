@@ -1,0 +1,11 @@
+# Coptic Script Test - Ⲁ Ⲃ Ⲅ Ⲇ
+
+This file tests Coptic script.
+
+## Script: Coptic (2C80-2CFF)
+Alphabet: Ⲁ Ⲃ Ⲅ Ⲇ Ⲉ Ⲋ Ⲍ Ⲏ Ⲑ Ⲓ Ⲕ Ⲗ Ⲙ Ⲛ Ⲝ Ⲟ Ⲡ Ⲣ Ⲥ Ⲧ Ⲩ Ⲫ Ⲭ Ⲯ Ⲱ
+
+## Note:
+- Used for Egyptian language after Greek influence
+- Still used by Coptic Orthodox Church
+- Mix of Greek letters and Demotic signs

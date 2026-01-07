@@ -1,0 +1,13 @@
+# Vietnamese Name - Đặng Nguyễn
+
+This file tests Vietnamese diacritical marks and tone marks.
+
+## Script: Latin Extended (Vietnamese)
+Characters: Ă ă Â â Đ đ Ê ê Ô ô Ơ ơ Ư ư
+Tone marks: à á ả ã ạ
+
+## Sample Words:
+- Việt Nam (Vietnam)
+- Xin chào (Hello)
+- Cảm ơn (Thank you)
+- Phở (Soup)

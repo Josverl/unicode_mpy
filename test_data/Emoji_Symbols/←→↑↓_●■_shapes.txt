@@ -1,0 +1,12 @@
+# Arrows and Shapes - ← → ↑ ↓ ● ■
+
+This file tests arrow and shape symbols.
+
+## Type: Arrows and Geometric Shapes
+Arrows: ← → ↑ ↓ ↔ ↕ ↖ ↗ ↘ ↙ ⇐ ⇒ ⇑ ⇓
+Shapes: ● ○ ◆ ◇ ■ □ ▲ △ ▼ ▽ ★ ☆
+
+## Sample:
+- Arrows: → ← ↑ ↓ ⟵ ⟶ ⟷
+- Circles: ● ◉ ○ ◎ ⊙ ⊚
+- Squares: ■ □ ▢ ▣

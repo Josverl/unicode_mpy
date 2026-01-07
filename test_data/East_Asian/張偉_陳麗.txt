@@ -1,0 +1,12 @@
+# Chinese Name (Traditional) - 張偉 陳麗
+
+This file tests Chinese Traditional characters.
+
+## Script: Han (Traditional Chinese)
+Sample: 國 語 學 習 廣 東 話
+
+## Sample Words:
+- 臺灣 (Taiwan)
+- 香港 (Hong Kong)
+- 謝謝 (Thank you)
+- 您好 (Hello - formal)

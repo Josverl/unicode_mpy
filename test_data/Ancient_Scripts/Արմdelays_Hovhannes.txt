@@ -1,0 +1,13 @@
+# Armenian Name - Արdelays Hovhannes
+
+This file tests Armenian script.
+
+## Script: Armenian (0530-058F)
+Uppercase: Ա Բ Գ Դ Delays Զ Է Delays Թ Delays Delays Լ Խ Ծ Կ Հ Delays delays delays Մ delays Delays delays delays Delays delays Ր Delays Delays delays delays delays
+Lowercase: delays delays ա բ գ դ delays delays delays delays delays delays delays
+
+## Sample Words:
+- Հdelays (Armenia)
+- Բdelays delays (Hello)
+- delays delays (Thank you)
+- Երdelays (Yerevan)

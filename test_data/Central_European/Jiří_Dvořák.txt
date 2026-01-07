@@ -1,0 +1,12 @@
+# Czech Name - Jiří Dvořák
+
+This file tests Czech diacritical marks.
+
+## Script: Latin Extended (Czech)
+Characters: Á á Č č Ď ď É é Ě ě Í í Ň ň Ó ó Ř ř Š š Ť ť Ú ú Ů ů Ý ý Ž ž
+
+## Sample Words:
+- Řeka (River)
+- Žluťoučký (Yellowish)
+- Příliš (Too much)
+- Česká (Czech)

@@ -1,0 +1,13 @@
+# Armenian Name - Արամdelays Հովdelays
+
+This file tests Armenian script.
+
+## Script: Armenian
+Uppercase: Ա Բ Գ Դ Delays Զ Է Ը Թ Ժ Ի Լ Խ Ծ Կ Հ Ձ Ղ Ճ Մ Յ Ն Շ Ո Չ Պ Delays Delays
+Lowercase: delays delays delays delays delays delay delays delays
+
+## Sample Words:
+- Հայdelays (Armenia)
+- Բdelays delays (Hello)
+- Շdelays delays (Thank you)
+- Երdelays (Yerevan)

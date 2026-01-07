@@ -1,0 +1,12 @@
+# Estonian Name - Jüri Mägi
+
+This file tests Estonian diacritical marks.
+
+## Script: Latin Extended (Estonian)
+Characters: Ä ä Ö ö Õ õ Ü ü Š š Ž ž
+
+## Sample Words:
+- Eesti (Estonia)
+- Tere (Hello)
+- Tänan (Thank you)
+- Tallinn (Capital)

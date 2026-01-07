@@ -1,0 +1,13 @@
+# Superscript and Subscript Test - H₂O E=mc²
+
+This file tests superscript and subscript characters.
+
+## Type: Subscript/Superscript
+Superscript: ⁰ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ⁺ ⁻ ⁼ ⁽ ⁾ ⁿ
+Subscript: ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉ ₊ ₋ ₌ ₍ ₎
+
+## Sample:
+- H₂O (Water)
+- CO₂ (Carbon dioxide)
+- E=mc² (Einstein's equation)
+- x² + y² = z²

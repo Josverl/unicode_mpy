@@ -1,0 +1,14 @@
+# Combining Diacritical Marks - Ḁ̈ Ẁ̀ Ḗ̂
+
+This file tests combining diacritical marks.
+
+## Type: Combining Diacritical Marks (0300-036F)
+Marks: ̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̉ ̊ ̋ ̌
+
+## Sample (base + combining):
+- à (a + grave)
+- á (a + acute)
+- â (a + circumflex)
+- ã (a + tilde)
+- ä (a + diaeresis)
+- å (a + ring)

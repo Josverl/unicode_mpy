@@ -1,0 +1,12 @@
+# Dutch Name - Jeroen de Vries
+
+This file tests Dutch characters.
+
+## Script: Latin Extended (Dutch)
+Characters: IJ ij (special ligature), ë (trema)
+
+## Sample Words:
+- Nederland (Netherlands)
+- Hallo (Hello)
+- Dank je wel (Thank you)
+- Amsterdam (City)

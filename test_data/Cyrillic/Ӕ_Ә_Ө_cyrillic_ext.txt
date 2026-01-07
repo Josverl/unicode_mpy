@@ -1,0 +1,11 @@
+# Cyrillic Extended Test - Ӕ Ә Ө
+
+This file tests Cyrillic extended characters.
+
+## Script: Cyrillic Extended
+Additional: Ӕ Ә Ғ Ҕ Ҙ Қ Ҝ Ң Ө Ұ Ү Һ Ҳ Ҷ Ҹ Һ Ӏ
+
+## Used in:
+- Kazakh: Ә Ғ Қ Ң Ө Ұ Ү Һ
+- Uzbek: Ғ Қ Ҳ Ҳ
+- Tajik: Ғ Ҳ Ҷ Ӣ Ӯ

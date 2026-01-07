@@ -1,0 +1,12 @@
+# Georgian Name - გიორგი ბერიძე
+
+This file tests Georgian script.
+
+## Script: Georgian (Mkhedruli)
+Alphabet: ა ბ გ დ ე ვ ზ თ ი კ ლ მ ნ ო პ ჟ რ ს ტ უ ფ ქ ღ ყ შ ჩ ც ძ წ ჭ ხ ჯ ჰ
+
+## Sample Words:
+- საქართველო (Georgia)
+- გამარჯობა (Hello)
+- მადლობა (Thank you)
+- თბილისი (Tbilisi)

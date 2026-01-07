@@ -1,0 +1,12 @@
+# Māori Name - Tāne Māhuta
+
+This file tests Māori macrons.
+
+## Script: Latin Extended (Māori)
+Characters: Ā ā Ē ē Ī ī Ō ō Ū ū (macrons for long vowels)
+
+## Sample Words:
+- Aotearoa (New Zealand)
+- Kia ora (Hello)
+- Ngā mihi (Thank you)
+- Tāmaki Makaurau (Auckland)

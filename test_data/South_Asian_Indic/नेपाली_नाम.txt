@@ -1,0 +1,13 @@
+# Nepali Name - नेपाली नाम
+
+This file tests Nepali (Devanagari) script.
+
+## Script: Devanagari (Nepali variant)
+Vowels: अ आ इ ई उ ऊ ऋ ए ऐ ओ औ
+Consonants: क ख ग घ ङ च छ ज झ ञ ट ठ ड ढ ण त थ द ध न
+
+## Sample Words:
+- नेपाल (Nepal)
+- नमस्ते (Hello)
+- धन्यवाद (Thank you)
+- काठमाडौं (Kathmandu)

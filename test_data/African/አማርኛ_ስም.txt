@@ -1,0 +1,12 @@
+# Amharic Name - አማርኛ ስም
+
+This file tests Amharic (Ge'ez) script.
+
+## Script: Ethiopic (Ge'ez)
+Sample syllables: ሀ ሁ ሂ ሃ ሄ ህ ሆ ለ ሉ ሊ ላ ሌ ል ሎ ሐ ሑ ሒ ሓ ሔ ሕ ሖ
+
+## Sample Words:
+- ኢትዮጵያ (Ethiopia)
+- ሰላም (Hello)
+- አመሰግናለሁ (Thank you)
+- አዲስ አበባ (Addis Ababa)

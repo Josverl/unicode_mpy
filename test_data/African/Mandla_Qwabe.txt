@@ -1,0 +1,12 @@
+# Xhosa Name - Mandla Qwabe
+
+This file tests Xhosa with click consonants.
+
+## Script: Latin (Xhosa)
+Click consonants: c (dental), q (palatal), x (lateral), gc, gq, gx, nc, nq, nx
+
+## Sample Words:
+- uMzantsi Afrika (South Africa)
+- Molo (Hello)
+- Enkosi (Thank you)
+- iKapa (Cape Town)

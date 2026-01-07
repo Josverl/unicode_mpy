@@ -1,0 +1,11 @@
+# Gothic Script Test - 𐌰 𐌱 𐌲 𐌳
+
+This file tests Gothic script.
+
+## Script: Gothic (10330-1034F)
+Sample: 𐌰 𐌱 𐌲 𐌳 𐌴 𐌵 𐌶 𐌷 𐌸 𐌹 𐌺 𐌻 𐌼
+
+## Note:
+- Created by Bishop Wulfila (4th century)
+- Used to write East Germanic Gothic language
+- Preserved in Codex Argenteus

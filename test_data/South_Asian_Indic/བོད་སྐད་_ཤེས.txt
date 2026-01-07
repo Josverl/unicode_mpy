@@ -1,0 +1,13 @@
+# Tibetan Name - བོད་སྐད་ཤེས
+
+This file tests Tibetan script.
+
+## Script: Tibetan
+Base letters: ཀ ཁ ག ང ཅ ཆ ཇ ཉ ཏ ཐ ད ན པ ཕ བ མ ཙ ཚ ཛ ཝ ཞ ཟ འ ཡ ར ལ ཤ ས ཧ ཨ
+Vowel signs: ི ུ ེ ོ
+
+## Sample Words:
+- བོད (Tibet)
+- བཀྲ་ཤིས་བདེ་ལེགས (Hello)
+- ཐུགས་རྗེ་ཆེ (Thank you)
+- ལྷ་ས (Lhasa)

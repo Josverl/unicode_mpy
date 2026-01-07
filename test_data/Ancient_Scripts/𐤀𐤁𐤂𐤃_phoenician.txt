@@ -1,0 +1,11 @@
+# Phoenician Script Test - 𐤀 𐤁 𐤂 𐤃
+
+This file tests Phoenician script.
+
+## Script: Phoenician (10900-1091F)
+Sample: 𐤀 𐤁 𐤂 𐤃 𐤄 𐤅 𐤆 𐤇 𐤈 𐤉 𐤊 𐤋
+
+## Note:
+- Ancestor of Greek, Latin, Arabic, Hebrew alphabets
+- Used ~1050-150 BCE
+- First widely used alphabet

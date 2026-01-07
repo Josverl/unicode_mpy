@@ -1,0 +1,14 @@
+# Greek Math Symbols - αβγδ πΣΩ
+
+This file tests Greek letters used in mathematics.
+
+## Type: Greek Letters (Mathematical Use)
+Lowercase: α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ σ τ υ φ χ ψ ω
+Uppercase: Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω
+
+## Common in Math:
+- π (pi) - circle constant
+- Σ (sigma) - summation
+- Ω (omega) - ohms/big-O notation
+- θ (theta) - angles
+- λ (lambda) - wavelength

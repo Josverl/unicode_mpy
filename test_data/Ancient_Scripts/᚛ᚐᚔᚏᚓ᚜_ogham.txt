@@ -1,0 +1,12 @@
+# Ogham Script Test - ᚛ᚐᚔᚏᚓ᚜
+
+This file tests Ogham script (ancient Irish).
+
+## Script: Ogham (1680-169F)
+Letters: ᚁ ᚂ ᚃ ᚄ ᚅ ᚆ ᚇ ᚈ ᚉ ᚊ ᚋ ᚌ ᚍ ᚎ ᚏ ᚐ ᚑ ᚒ ᚓ ᚔ
+Feathers: ᚛ (start) ᚜ (end)
+
+## Sample:
+- ᚛ᚐᚔᚏᚓ᚜ (EIRE - Ireland in Ogham)
+- Ancient Irish writing system
+- Written on stone edges

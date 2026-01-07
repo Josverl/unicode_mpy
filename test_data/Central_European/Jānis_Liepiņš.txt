@@ -1,0 +1,12 @@
+# Latvian Name - Jānis Liepiņš
+
+This file tests Latvian diacritical marks.
+
+## Script: Latin Extended (Latvian)
+Characters: Ā ā Č č Ē ē Ģ ģ Ī ī Ķ ķ Ļ ļ Ņ ņ Š š Ū ū Ž ž
+
+## Sample Words:
+- Latvija (Latvia)
+- Sveiki (Hello)
+- Paldies (Thank you)
+- Rīga (Capital)

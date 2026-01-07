@@ -1,0 +1,13 @@
+# Korean Name - 김철수 박영희
+
+This file tests Korean Hangul script.
+
+## Script: Hangul
+Basic consonants: ㄱ ㄴ ㄷ ㄹ ㅁ ㅂ ㅅ ㅇ ㅈ ㅊ ㅋ ㅌ ㅍ ㅎ
+Basic vowels: ㅏ ㅑ ㅓ ㅕ ㅗ ㅛ ㅜ ㅠ ㅡ ㅣ
+
+## Sample Words:
+- 한국 (Korea)
+- 서울 (Seoul)
+- 감사합니다 (Thank you)
+- 안녕하세요 (Hello)

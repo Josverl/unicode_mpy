@@ -1,0 +1,13 @@
+# French-German Name - François Müller
+
+This file tests French and German diacritical marks.
+
+## Script: Latin Extended
+French characters: é è ê ë à â ç œ
+German characters: ä ö ü ß
+
+## Sample Words:
+- Français (French)
+- Größe (Size)
+- Château (Castle)
+- Frühstück (Breakfast)

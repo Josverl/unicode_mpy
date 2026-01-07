@@ -1,0 +1,12 @@
+# Croatian Name - Željko Horvat
+
+This file tests Croatian diacritical marks.
+
+## Script: Latin Extended (Croatian)
+Characters: Č č Ć ć Đ đ Š š Ž ž
+
+## Sample Words:
+- Hrvatska (Croatia)
+- Bok (Hello)
+- Hvala (Thank you)
+- Zagreb (Capital)

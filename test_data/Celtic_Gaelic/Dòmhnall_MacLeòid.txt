@@ -1,0 +1,12 @@
+# Scottish Gaelic Name - Dòmhnall MacLeòid
+
+This file tests Scottish Gaelic diacritical marks.
+
+## Script: Latin Extended (Scottish Gaelic)
+Characters: À à È è Ì ì Ò ò Ù ù (grave accent)
+
+## Sample Words:
+- Alba (Scotland)
+- Halò (Hello)
+- Tapadh leat (Thank you)
+- Dùn Èideann (Edinburgh)

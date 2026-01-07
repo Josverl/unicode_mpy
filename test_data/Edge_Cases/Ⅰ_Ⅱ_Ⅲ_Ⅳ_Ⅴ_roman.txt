@@ -1,0 +1,13 @@
+# Roman Numerals Test - Ⅰ Ⅱ Ⅲ Ⅳ Ⅴ
+
+This file tests Unicode Roman numerals.
+
+## Type: Number Forms (2150-218F)
+Uppercase: Ⅰ Ⅱ Ⅲ Ⅳ Ⅴ Ⅵ Ⅶ Ⅷ Ⅸ Ⅹ Ⅺ Ⅻ Ⅼ Ⅽ Ⅾ Ⅿ
+Lowercase: ⅰ ⅱ ⅲ ⅳ ⅴ ⅵ ⅶ ⅷ ⅸ ⅹ ⅺ ⅻ ⅼ ⅽ ⅾ ⅿ
+
+## Sample:
+- Ⅰ = 1
+- Ⅳ = 4
+- Ⅸ = 9
+- ⅯⅭⅯⅩⅭⅣ = 1994

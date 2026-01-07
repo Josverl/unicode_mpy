@@ -1,0 +1,14 @@
+# Mahjong Tiles Test - 🀀 🀁 🀂 🀃 🀄
+
+This file tests Mahjong tile symbols.
+
+## Type: Mahjong Tiles (1F000-1F02F)
+Winds: 🀀 🀁 🀂 🀃 (East, South, West, North)
+Dragons: 🀄 🀅 🀆 (Red, Green, White)
+Characters: 🀇 🀈 🀉 🀊 🀋 🀌 🀍 🀎 🀏 (1-9 万)
+Bamboos: 🀐 🀑 🀒 🀓 🀔 🀕 🀖 🀗 🀘 (1-9 索)
+Circles: 🀙 🀚 🀛 🀜 🀝 🀞 🀟 🀠 🀡 (1-9 筒)
+
+## Sample:
+🀄 Red Dragon (中)
+🀀 East Wind (東)

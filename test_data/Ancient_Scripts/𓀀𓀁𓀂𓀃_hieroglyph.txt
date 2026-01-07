@@ -1,0 +1,11 @@
+# Egyptian Hieroglyphs Test - 𓀀 𓀁 𓀂 𓀃
+
+This file tests Egyptian Hieroglyphic script.
+
+## Script: Egyptian Hieroglyphs (13000-1342F)
+Sample: 𓀀 𓀁 𓀂 𓀃 𓀄 𓀅 𓀆 𓀇 𓀈 𓀉 𓀊
+
+## Note:
+- Ancient Egyptian writing system
+- Used from ~3200 BCE to 400 CE
+- Requires fonts with Hieroglyph support

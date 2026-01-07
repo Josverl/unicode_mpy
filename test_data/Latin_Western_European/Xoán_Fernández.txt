@@ -1,0 +1,12 @@
+# Galician Name - Xoán Fernández
+
+This file tests Galician diacritical marks.
+
+## Script: Latin Extended (Galician)
+Characters: Á á É é Í í Ó ó Ú ú Ñ ñ
+
+## Sample Words:
+- Galicia (Galicia)
+- Ola (Hello)
+- Grazas (Thank you)
+- Santiago de Compostela (City)

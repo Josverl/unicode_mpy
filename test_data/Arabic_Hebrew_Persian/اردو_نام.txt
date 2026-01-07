@@ -1,0 +1,12 @@
+# Urdu Name - اردو نام
+
+This file tests Urdu (Nastaliq) script.
+
+## Script: Arabic Extended (Urdu)
+Additional letters: ٹ ڈ ڑ ں ہ ھ ے
+
+## Sample Words:
+- پاکستان (Pakistan)
+- السلام علیکم (Hello)
+- شکریہ (Thank you)
+- اسلام آباد (Islamabad)

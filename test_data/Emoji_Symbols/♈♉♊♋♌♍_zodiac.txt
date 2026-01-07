@@ -1,0 +1,15 @@
+# Astrological Symbols - ♈ ♉ ♊ ♋ ♌ ♍
+
+This file tests zodiac and astrological symbols.
+
+## Type: Miscellaneous Symbols
+Zodiac: ♈ ♉ ♊ ♋ ♌ ♍ ♎ ♏ ♐ ♑ ♒ ♓
+Planets: ☉ ☽ ☿ ♀ ♂ ♃ ♄ ♅ ♆ ♇
+
+## Zodiac:
+♈ Aries      ♎ Libra
+♉ Taurus     ♏ Scorpio
+♊ Gemini     ♐ Sagittarius
+♋ Cancer     ♑ Capricorn
+♌ Leo        ♒ Aquarius
+♍ Virgo      ♓ Pisces

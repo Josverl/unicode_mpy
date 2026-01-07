@@ -1,0 +1,11 @@
+# Akkadian Cuneiform Test - 𒀀 𒀁 𒀂 𒀃
+
+This file tests Cuneiform script (ancient Mesopotamian).
+
+## Script: Cuneiform (12000-123FF)
+Sample: 𒀀 𒀁 𒀂 𒀃 𒀄 𒀅 𒀆 𒀇 𒀈 𒀉 𒀊
+
+## Note:
+- One of the oldest writing systems
+- Used in ancient Mesopotamia
+- Requires fonts with Cuneiform support

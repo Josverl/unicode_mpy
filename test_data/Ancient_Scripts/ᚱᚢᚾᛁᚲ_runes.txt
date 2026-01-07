@@ -1,0 +1,11 @@
+# Runic Script Test - ᚱᚢᚾᛁᚲ
+
+This file tests Runic script (Germanic).
+
+## Script: Runic (16A0-16FF)
+Elder Futhark: ᚠ ᚢ ᚦ ᚨ ᚱ ᚲ ᚷ ᚹ ᚺ ᚾ ᛁ ᛃ ᛇ ᛈ ᛉ ᛊ ᛏ ᛒ ᛖ ᛗ ᛚ ᛜ ᛟ ᛞ
+
+## Sample:
+- ᚠᚢᚦᚨᚱᚲ (FUTHARK)
+- Ancient Germanic alphabet
+- Used 2nd-11th century CE

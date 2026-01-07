@@ -1,0 +1,13 @@
+# Odia Name - ଓଡ଼ିଶା ପ୍ରିୟ
+
+This file tests Odia (Oriya) script.
+
+## Script: Odia
+Vowels: ଅ ଆ ଇ ଈ ଉ ଊ ଋ ଏ ଐ ଓ ଔ
+Consonants: କ ଖ ଗ ଘ ଙ ଚ ଛ ଜ ଝ ଞ ଟ ଠ ଡ ଢ ଣ ତ ଥ ଦ ଧ ନ
+
+## Sample Words:
+- ଓଡ଼ିଶା (Odisha)
+- ନମସ୍କାର (Hello)
+- ଧନ୍ୟବାଦ (Thank you)
+- ଭୁବନେଶ୍ୱର (Bhubaneswar)

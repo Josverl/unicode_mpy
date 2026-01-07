@@ -1,0 +1,12 @@
+# Kazakh Name - Нұрсұлтан Әбішұлы
+
+This file tests Kazakh Cyrillic characters.
+
+## Script: Cyrillic (Kazakh)
+Special: Ә ә Ғ ғ Қ қ Ң ң Ө ө Ұ ұ Ү ү Һ һ І і
+
+## Sample Words:
+- Қазақстан (Kazakhstan)
+- Сәлем (Hello)
+- Рахмет (Thank you)
+- Астана (Capital)

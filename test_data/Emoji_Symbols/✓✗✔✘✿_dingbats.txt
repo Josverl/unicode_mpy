@@ -1,0 +1,14 @@
+# Dingbats Test - ✓ ✗ ✔ ✘ ✿
+
+This file tests dingbat symbols.
+
+## Type: Dingbats (2700-27BF)
+Checks: ✓ ✔ ☑ ✗ ✘ ☒
+Stars: ✦ ✧ ✩ ✪ ✫ ✬ ✭ ✮ ✯ ✰
+Flowers: ✿ ❀ ❁ ❂ ❃ ❇
+Arrows: ➔ ➘ ➙ ➚ ➛ ➜ ➝ ➞
+
+## Sample:
+- ✓ Task complete
+- ✗ Task failed
+- ✿ Decorative flower

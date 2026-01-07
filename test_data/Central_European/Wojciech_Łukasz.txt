@@ -1,0 +1,12 @@
+# Polish Name - Wojciech Łukasz
+
+This file tests Polish diacritical marks.
+
+## Script: Latin Extended (Polish)
+Characters: Ą ą Ć ć Ę ę Ł ł Ń ń Ó ó Ś ś Ź ź Ż ż
+
+## Sample Words:
+- Żółć (Bile/Yellow)
+- Łódź (City name)
+- Źródło (Source)
+- Gęś (Goose)

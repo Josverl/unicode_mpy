@@ -1,0 +1,13 @@
+# Gujarati Name - ગુજરાતી પટેલ
+
+This file tests Gujarati script.
+
+## Script: Gujarati
+Vowels: અ આ ઇ ઈ ઉ ઊ ઋ એ ઐ ઓ ઔ
+Consonants: ક ખ ગ ઘ ઙ ચ છ જ ઝ ઞ ટ ઠ ડ ઢ ણ ત થ દ ધ ન
+
+## Sample Words:
+- ગુજરાત (Gujarat)
+- નમસ્તે (Hello)
+- આભાર (Thank you)
+- અમદાવાદ (Ahmedabad)

@@ -1,0 +1,13 @@
+# CJK Compatibility - ㈱ ㊗ ㊙
+
+This file tests CJK compatibility ideographs.
+
+## Type: CJK Compatibility (3300-33FF, 3200-32FF)
+Enclosed CJK: ㈱ ㈲ ㈹ ㊀ ㊁ ㊂ ㊃ ㊄
+Circled Katakana: ㋐ ㋑ ㋒ ㋓ ㋔
+
+## Sample:
+- ㈱ (Kabushiki-gaisha - Corporation)
+- ㊗ (Congratulations)
+- ㊙ (Secret)
+- ㋿ (Reiwa era)

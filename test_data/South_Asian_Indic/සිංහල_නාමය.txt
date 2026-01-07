@@ -1,0 +1,13 @@
+# Sinhala Name - සිංහල නාමය
+
+This file tests Sinhala script.
+
+## Script: Sinhala
+Vowels: අ ආ ඇ ඈ ඉ ඊ උ ඌ එ ඒ ඔ ඕ
+Consonants: ක ග ච ජ ට ඩ ත ද න ප බ ම ය ර ල ව ස හ ළ
+
+## Sample Words:
+- ශ්‍රී ලංකා (Sri Lanka)
+- ආයුබෝවන් (Hello)
+- ස්තුතියි (Thank you)
+- කොළඹ (Colombo)

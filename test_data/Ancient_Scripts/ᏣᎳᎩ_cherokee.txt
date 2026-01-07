@@ -1,0 +1,12 @@
+# Cherokee Script Test - ᏣᎳᎩ ᎠᏂᏴᏫᏯ
+
+This file tests Cherokee syllabary.
+
+## Script: Cherokee (13A0-13FF)
+Sample: Ꭰ Ꭱ Ꭲ Ꭳ Ꭴ Ꭵ Ꭶ Ꭷ Ꭸ Ꭹ Ꭺ Ꭻ Ꭼ
+
+## Sample Words:
+- ᏣᎳᎩ (Cherokee)
+- ᎣᏏᏲ (Hello)
+- ᏩᏙ (Thank you)
+- ᎠᏂᏴᏫᏯ (America)

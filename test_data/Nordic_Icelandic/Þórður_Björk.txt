@@ -1,0 +1,12 @@
+# Icelandic Name - Þórður Björk
+
+This file tests Icelandic special characters.
+
+## Script: Latin Extended (Icelandic)
+Characters: Þ þ Ð ð Æ æ Ö ö Á á É é Í í Ó ó Ú ú Ý ý
+
+## Sample Words:
+- Þakka (Thank)
+- Ísland (Iceland)
+- Eyjafjallajökull (Volcano name)
+- Björn (Bear)

@@ -1,0 +1,12 @@
+# IPA Phonetic Test - ʃ ʒ θ ð ŋ
+
+This file tests IPA (International Phonetic Alphabet) symbols.
+
+## Type: IPA Extensions (0250-02AF)
+Consonants: ʃ ʒ θ ð ŋ ɱ ɳ ɲ ɴ ɸ β ç ʝ ɣ χ ʁ ħ ʕ ʔ ɦ ɬ ɮ ɹ ɻ ɾ ɽ ʀ ʋ ʍ ɰ ʎ ʟ
+Vowels: ɑ ɒ æ ɔ ə ɛ ɜ ɪ ʊ ʌ ɤ ɯ ɨ ʉ ɵ ɞ
+
+## Sample transcriptions:
+- /həˈloʊ/ (hello)
+- /wɜːld/ (world)
+- /ʃuːz/ (shoes)

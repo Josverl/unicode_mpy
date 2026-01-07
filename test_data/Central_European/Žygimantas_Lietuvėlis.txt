@@ -1,0 +1,12 @@
+# Lithuanian Name - Žygimantas Lietuvėlis
+
+This file tests Lithuanian diacritical marks.
+
+## Script: Latin Extended (Lithuanian)
+Characters: Ą ą Č č Ę ę Ė ė Į į Š š Ų ų Ū ū Ž ž
+
+## Sample Words:
+- Lietuva (Lithuania)
+- Labas (Hello)
+- Ačiū (Thank you)
+- Vilnius (Capital)

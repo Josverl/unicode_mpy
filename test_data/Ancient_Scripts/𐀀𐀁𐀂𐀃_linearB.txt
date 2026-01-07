@@ -1,0 +1,11 @@
+# Linear B Test - 𐀀 𐀁 𐀂 𐀃
+
+This file tests Linear B script (ancient Greek).
+
+## Script: Linear B Syllabary (10000-1007F)
+Sample: 𐀀 𐀁 𐀂 𐀃 𐀄 𐀅 𐀆 𐀇 𐀈 𐀉 𐀊
+
+## Note:
+- Syllabic script used for Mycenaean Greek
+- Used from ~1450-1200 BCE
+- Deciphered in 1952 by Michael Ventris

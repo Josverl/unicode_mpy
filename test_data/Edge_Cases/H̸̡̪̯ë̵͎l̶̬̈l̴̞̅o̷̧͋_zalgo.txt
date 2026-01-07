@@ -1,0 +1,16 @@
+# Zalgo Text Test - H̸̡̪̯ë̵͎l̶̬̈l̴̞̅o̷̧͋
+
+This file tests combining characters (Zalgo-style).
+
+## Type: Excessive Combining Marks
+These are created by stacking multiple combining diacritical marks.
+
+## Sample:
+H̸̡̪̯ë̵͎l̶̬̈l̴̞̅o̷̧͋
+T̵͖̙̊h̷̤̓i̸̯̊s̵̱̆ ̷̹̈ỉ̶̱s̸͔̓ ̴̝͂z̷̯̓a̶͖͑ĺ̵̳g̷̳̈́o̶̙̐
+
+## Warning:
+Excessive combining marks can:
+- Break text rendering
+- Cause buffer overflows
+- Crash applications

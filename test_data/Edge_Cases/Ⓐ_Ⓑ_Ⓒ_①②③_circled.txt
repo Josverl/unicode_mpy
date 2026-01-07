@@ -1,0 +1,12 @@
+# Circled Letters Test - Ⓐ Ⓑ Ⓒ ① ② ③
+
+This file tests enclosed alphanumerics.
+
+## Type: Enclosed Alphanumerics (2460-24FF)
+Circled letters: Ⓐ Ⓑ Ⓒ Ⓓ Ⓔ Ⓕ Ⓖ Ⓗ Ⓘ Ⓙ Ⓚ Ⓛ Ⓜ
+Circled numbers: ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+Negative circled: ❶ ❷ ❸ ❹ ❺ ❻ ❼ ❽ ❾ ❿
+
+## Sample:
+- Ⓐⓑⓒⓓⓔ
+- ①②③④⑤

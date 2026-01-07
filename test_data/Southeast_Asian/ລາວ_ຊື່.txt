@@ -1,0 +1,13 @@
+# Lao Name - ລາວ ຊື່
+
+This file tests Lao script.
+
+## Script: Lao
+Consonants: ກ ຂ ຄ ງ ຈ ສ ຊ ຍ ດ ຕ ຖ ທ ນ ບ ປ ຜ ຝ ພ ຟ ມ ຢ ຣ ລ ວ ຫ ອ ຮ
+Vowels: ະ ັ າ ຳ ິ ີ ຶ ື ຸ ູ ເ ແ ໂ ໃ ໄ
+
+## Sample Words:
+- ລາວ (Laos)
+- ສະບາຍດີ (Hello)
+- ຂອບໃຈ (Thank you)
+- ວຽງຈັນ (Vientiane)

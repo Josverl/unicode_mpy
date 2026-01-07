@@ -1,0 +1,13 @@
+# Telugu Name - శ్రీనివాస్ రెడ్డి
+
+This file tests Telugu script.
+
+## Script: Telugu
+Vowels: అ ఆ ఇ ఈ ఉ ఊ ఋ ఎ ఏ ఐ ఒ ఓ ఔ
+Consonants: క ఖ గ ఘ ఙ చ ఛ జ ఝ ఞ ట ఠ డ ఢ ణ త థ ద ధ న
+
+## Sample Words:
+- తెలుగు (Telugu)
+- నమస్కారం (Hello)
+- ధన్యవాదాలు (Thank you)
+- హైదరాబాద్ (Hyderabad)

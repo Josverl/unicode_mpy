@@ -1,0 +1,12 @@
+# Finnish Name - Päivi Mäkinen
+
+This file tests Finnish diacritical marks.
+
+## Script: Latin Extended (Finnish)
+Characters: Ä ä Ö ö (also Å å for Swedish loanwords)
+
+## Sample Words:
+- Suomi (Finland)
+- Hei (Hello)
+- Kiitos (Thank you)
+- Helsinki (Capital)

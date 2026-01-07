@@ -1,0 +1,12 @@
+# Ukrainian Name - Олександр Коваленко
+
+This file tests Cyrillic script (Ukrainian).
+
+## Script: Cyrillic (Ukrainian)
+Special characters: І і Ї ї Є є Ґ ґ
+
+## Sample Words:
+- Україна (Ukraine)
+- Київ (Kyiv)
+- Дякую (Thank you)
+- Добрий день (Good day)

@@ -1,0 +1,12 @@
+# Welsh Name - Dafydd Llywelyn
+
+This file tests Welsh characters.
+
+## Script: Latin Extended (Welsh)
+Characters: Â â Ê ê Î î Ô ô Û û Ŵ ŵ Ŷ ŷ (circumflex vowels)
+
+## Sample Words:
+- Cymru (Wales)
+- Bore da (Good morning)
+- Diolch (Thank you)
+- Caerdydd (Cardiff)

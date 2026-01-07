@@ -1,0 +1,12 @@
+# Breton Name - Yann Ar Gwenn
+
+This file tests Breton diacritical marks.
+
+## Script: Latin Extended (Breton)
+Characters: Ñ ñ (for nasalization), c'h (digraph)
+
+## Sample Words:
+- Breizh (Brittany)
+- Demat (Hello)
+- Trugarez (Thank you)
+- Roazhon (Rennes)

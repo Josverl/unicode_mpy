@@ -1,0 +1,12 @@
+# Hausa Name - Abdullahi Mūsā
+
+This file tests Hausa diacritical marks.
+
+## Script: Latin Extended (Hausa)
+Characters: Ɓ ɓ Ɗ ɗ Ƙ ƙ (hooked letters) and macrons
+
+## Sample Words:
+- Najeriya (Nigeria)
+- Sannu (Hello)
+- Na gode (Thank you)
+- Kano (City)

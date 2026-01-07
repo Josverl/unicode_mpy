@@ -1,0 +1,12 @@
+# Full-width Characters Test - Ａｌｅｘ Ｗｉｄｅ
+
+This file tests full-width Latin characters.
+
+## Type: Full-width Forms (FF00-FFEF)
+Full-width alphabet: Ａ Ｂ Ｃ Ｄ Ｅ Ｆ Ｇ Ｈ Ｉ Ｊ Ｋ Ｌ Ｍ Ｎ Ｏ Ｐ Ｑ Ｒ Ｓ Ｔ Ｕ Ｖ Ｗ Ｘ Ｙ Ｚ
+Full-width numbers: ０ １ ２ ３ ４ ５ ６ ７ ８ ９
+
+## Sample Words:
+- ＨＥＬＬＯ (Hello)
+- ＷＯＲＬＤ (World)
+- １２３４５ (12345)

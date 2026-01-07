@@ -1,0 +1,14 @@
+# Box Drawing Characters - ╔═╗ ╚═╝
+
+This file tests box drawing characters.
+
+## Type: Box Drawing (2500-257F)
+Sample: ─ │ ┌ ┐ └ ┘ ├ ┤ ┬ ┴ ┼
+Double: ═ ║ ╔ ╗ ╚ ╝ ╠ ╣ ╦ ╩ ╬
+
+## Sample Box:
+╔═══════════╗
+║   Hello   ║
+╠═══════════╣
+║   World   ║
+╚═══════════╝

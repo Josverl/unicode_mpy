@@ -1,0 +1,12 @@
+# Hawaiian Name - Keanu Kahanamoku
+
+This file tests Hawaiian special characters.
+
+## Script: Latin Extended (Hawaiian)
+Characters: Ā ā Ē ē Ī ī Ō ō Ū ū (macrons) and ʻ (ʻokina)
+
+## Sample Words:
+- Hawaiʻi (Hawaii)
+- Aloha (Hello)
+- Mahalo (Thank you)
+- Honolulu (City)

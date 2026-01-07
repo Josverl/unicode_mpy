@@ -1,0 +1,12 @@
+# Afrikaans Name - Pieter van der Merwe
+
+This file tests Afrikaans characters.
+
+## Script: Latin Extended (Afrikaans)
+Characters: ê ë ï ô û (circumflex and diaeresis)
+
+## Sample Words:
+- Suid-Afrika (South Africa)
+- Hallo (Hello)
+- Dankie (Thank you)
+- Kaapstad (Cape Town)

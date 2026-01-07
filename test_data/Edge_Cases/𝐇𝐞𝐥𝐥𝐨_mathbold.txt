@@ -1,0 +1,13 @@
+# Mathematical Bold Test - 𝐇𝐞𝐥𝐥𝐨
+
+This file tests mathematical alphanumeric symbols.
+
+## Type: Mathematical Alphanumeric Symbols (1D400-1D7FF)
+Bold: 𝐀 𝐁 𝐂 𝐃 𝐄 𝐅 𝐆 𝐇 𝐈 𝐉 𝐊 𝐋 𝐌
+Italic: 𝐴 𝐵 𝐶 𝐷 𝐸 𝐹 𝐺 𝐻 𝐼
+Script: 𝒜 ℬ 𝒞 𝒟 ℰ ℱ 𝒢 ℋ ℐ
+Fraktur: 𝔄 𝔅 ℭ 𝔇 𝔈 𝔉 𝔊 ℌ ℑ
+
+## Sample:
+- 𝐇𝐞𝐥𝐥𝐨 (Bold Hello)
+- 𝑯𝒆𝒍𝒍𝒐 (Bold Italic)

@@ -1,0 +1,15 @@
+# Zero-Width Characters Test - Hidden​Chars
+
+This file tests zero-width characters (invisible).
+
+## Type: Zero-Width Characters
+- U+200B Zero Width Space (ZWS)
+- U+200C Zero Width Non-Joiner (ZWNJ)
+- U+200D Zero Width Joiner (ZWJ)
+- U+FEFF Byte Order Mark (BOM)
+
+## Note:
+These characters are invisible but can cause issues:
+- String comparison failures
+- URL manipulation
+- Copy-paste problems

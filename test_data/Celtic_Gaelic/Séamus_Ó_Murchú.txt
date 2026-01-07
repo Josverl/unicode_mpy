@@ -1,0 +1,12 @@
+# Irish Name - Séamus Ó Murchú
+
+This file tests Irish (Gaelic) diacritical marks.
+
+## Script: Latin Extended (Irish)
+Characters: Á á É é Í í Ó ó Ú ú (fada/acute accent)
+
+## Sample Words:
+- Éire (Ireland)
+- Dia duit (Hello)
+- Go raibh maith agat (Thank you)
+- Baile Átha Cliath (Dublin)

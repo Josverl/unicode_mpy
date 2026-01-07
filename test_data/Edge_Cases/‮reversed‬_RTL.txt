@@ -1,0 +1,14 @@
+# Right-to-Left Override Test - ‮Reversed‬
+
+This file tests bidirectional text control characters.
+
+## Type: Bidirectional Controls
+- U+202A Left-to-Right Embedding (LRE)
+- U+202B Right-to-Left Embedding (RLE)
+- U+202C Pop Directional Formatting (PDF)
+- U+202D Left-to-Right Override (LRO)
+- U+202E Right-to-Left Override (RLO)
+
+## Security Note:
+These can be used for spoofing filenames (CVE-2021-42574).
+Example: filename‮fdp.exe becomes filename exe.pdf visually

@@ -1,0 +1,12 @@
+# Long Filename Test - アイウエオカキクケコサシスセソタチツテトナニヌネノ
+
+This file tests long Unicode filenames.
+
+## Type: Katakana
+Full row: ア イ ウ エ オ カ キ ク ケ コ サ シ ス セ ソ タ チ ツ テ ト ナ ニ ヌ ネ ノ ハ ヒ フ ヘ ホ
+
+## Note:
+Long filenames with multi-byte characters can cause:
+- Path length issues
+- Buffer overflow in legacy systems
+- Display truncation
