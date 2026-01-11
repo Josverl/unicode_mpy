@@ -2,8 +2,1568 @@ Unicode Test Results
 ======================================================================
 
 
+File: African\Abdullahi_Mūsā.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  A = U+0041 (LATIN CAPITAL LETTER A) [Lu]
+  b = U+0062 (LATIN SMALL LETTER B) [Ll]
+  d = U+0064 (LATIN SMALL LETTER D) [Ll]
+  u = U+0075 (LATIN SMALL LETTER U) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  h = U+0068 (LATIN SMALL LETTER H) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  M = U+004D (LATIN CAPITAL LETTER M) [Lu]
+  ū = U+016B (LATIN SMALL LETTER U WITH MACRON) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  ā = U+0101 (LATIN SMALL LETTER A WITH MACRON) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: African\Adéọlá_Olúwadáre.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  A = U+0041 (LATIN CAPITAL LETTER A) [Lu]
+  d = U+0064 (LATIN SMALL LETTER D) [Ll]
+  é = U+00E9 (LATIN SMALL LETTER E WITH ACUTE) [Ll]
+  ọ = U+1ECD (LATIN SMALL LETTER O WITH DOT BELOW) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  á = U+00E1 (LATIN SMALL LETTER A WITH ACUTE) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  O = U+004F (LATIN CAPITAL LETTER O) [Lu]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  ú = U+00FA (LATIN SMALL LETTER U WITH ACUTE) [Ll]
+  w = U+0077 (LATIN SMALL LETTER W) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  d = U+0064 (LATIN SMALL LETTER D) [Ll]
+  á = U+00E1 (LATIN SMALL LETTER A WITH ACUTE) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: African\Chukwuemeka_Ọkonkwọ.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  C = U+0043 (LATIN CAPITAL LETTER C) [Lu]
+  h = U+0068 (LATIN SMALL LETTER H) [Ll]
+  u = U+0075 (LATIN SMALL LETTER U) [Ll]
+  k = U+006B (LATIN SMALL LETTER K) [Ll]
+  w = U+0077 (LATIN SMALL LETTER W) [Ll]
+  u = U+0075 (LATIN SMALL LETTER U) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  m = U+006D (LATIN SMALL LETTER M) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  k = U+006B (LATIN SMALL LETTER K) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  Ọ = U+1ECC (LATIN CAPITAL LETTER O WITH DOT BELOW) [Lu]
+  k = U+006B (LATIN SMALL LETTER K) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  k = U+006B (LATIN SMALL LETTER K) [Ll]
+  w = U+0077 (LATIN SMALL LETTER W) [Ll]
+  ọ = U+1ECD (LATIN SMALL LETTER O WITH DOT BELOW) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: African\Juma_Abdullahi.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  J = U+004A (LATIN CAPITAL LETTER J) [Lu]
+  u = U+0075 (LATIN SMALL LETTER U) [Ll]
+  m = U+006D (LATIN SMALL LETTER M) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  A = U+0041 (LATIN CAPITAL LETTER A) [Lu]
+  b = U+0062 (LATIN SMALL LETTER B) [Ll]
+  d = U+0064 (LATIN SMALL LETTER D) [Ll]
+  u = U+0075 (LATIN SMALL LETTER U) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  h = U+0068 (LATIN SMALL LETTER H) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: African\Mandla_Qwabe.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  M = U+004D (LATIN CAPITAL LETTER M) [Lu]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  d = U+0064 (LATIN SMALL LETTER D) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  Q = U+0051 (LATIN CAPITAL LETTER Q) [Lu]
+  w = U+0077 (LATIN SMALL LETTER W) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  b = U+0062 (LATIN SMALL LETTER B) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: African\Pieter_van_der_Merwe.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  P = U+0050 (LATIN CAPITAL LETTER P) [Lu]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  v = U+0076 (LATIN SMALL LETTER V) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  d = U+0064 (LATIN SMALL LETTER D) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  M = U+004D (LATIN CAPITAL LETTER M) [Lu]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  w = U+0077 (LATIN SMALL LETTER W) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: African\Thabo_Mkhize.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  T = U+0054 (LATIN CAPITAL LETTER T) [Lu]
+  h = U+0068 (LATIN SMALL LETTER H) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  b = U+0062 (LATIN SMALL LETTER B) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  M = U+004D (LATIN CAPITAL LETTER M) [Lu]
+  k = U+006B (LATIN SMALL LETTER K) [Ll]
+  h = U+0068 (LATIN SMALL LETTER H) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  z = U+007A (LATIN SMALL LETTER Z) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: African\አማርኛ_ስም.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  አ = U+12A0 (ETHIOPIC SYLLABLE GLOTTAL A) [Lo]
+  ማ = U+121B (ETHIOPIC SYLLABLE MAA) [Lo]
+  ር = U+122D (ETHIOPIC SYLLABLE RE) [Lo]
+  ኛ = U+129B (ETHIOPIC SYLLABLE NYAA) [Lo]
+  _ = U+005F (LOW LINE) [Pc]
+  ስ = U+1235 (ETHIOPIC SYLLABLE SE) [Lo]
+  ም = U+121D (ETHIOPIC SYLLABLE ME) [Lo]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Ancient_Scripts\Արdelays_Հdelays.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  Ա = U+0531 (ARMENIAN CAPITAL LETTER AYB) [Lu]
+  ր = U+0580 (ARMENIAN SMALL LETTER REH) [Ll]
+  d = U+0064 (LATIN SMALL LETTER D) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  y = U+0079 (LATIN SMALL LETTER Y) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  Հ = U+0540 (ARMENIAN CAPITAL LETTER HO) [Lu]
+  d = U+0064 (LATIN SMALL LETTER D) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  y = U+0079 (LATIN SMALL LETTER Y) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Ancient_Scripts\Արմdelays_Hovhannes.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  Ա = U+0531 (ARMENIAN CAPITAL LETTER AYB) [Lu]
+  ր = U+0580 (ARMENIAN SMALL LETTER REH) [Ll]
+  մ = U+0574 (ARMENIAN SMALL LETTER MEN) [Ll]
+  d = U+0064 (LATIN SMALL LETTER D) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  y = U+0079 (LATIN SMALL LETTER Y) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  H = U+0048 (LATIN CAPITAL LETTER H) [Lu]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  v = U+0076 (LATIN SMALL LETTER V) [Ll]
+  h = U+0068 (LATIN SMALL LETTER H) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Ancient_Scripts\გიორგი_ბერიძე.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  გ = U+10D2 (GEORGIAN LETTER GAN) [Ll]
+  ი = U+10D8 (GEORGIAN LETTER IN) [Ll]
+  ო = U+10DD (GEORGIAN LETTER ON) [Ll]
+  რ = U+10E0 (GEORGIAN LETTER RAE) [Ll]
+  გ = U+10D2 (GEORGIAN LETTER GAN) [Ll]
+  ი = U+10D8 (GEORGIAN LETTER IN) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  ბ = U+10D1 (GEORGIAN LETTER BAN) [Ll]
+  ე = U+10D4 (GEORGIAN LETTER EN) [Ll]
+  რ = U+10E0 (GEORGIAN LETTER RAE) [Ll]
+  ი = U+10D8 (GEORGIAN LETTER IN) [Ll]
+  ძ = U+10EB (GEORGIAN LETTER JIL) [Ll]
+  ე = U+10D4 (GEORGIAN LETTER EN) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Ancient_Scripts\ᑕᓂᓯ_syllabics.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  ᑕ = U+1455 (CANADIAN SYLLABICS TA) [Lo]
+  ᓂ = U+14C2 (CANADIAN SYLLABICS NI) [Lo]
+  ᓯ = U+14EF (CANADIAN SYLLABICS SI) [Lo]
+  _ = U+005F (LOW LINE) [Pc]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  y = U+0079 (LATIN SMALL LETTER Y) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  b = U+0062 (LATIN SMALL LETTER B) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  c = U+0063 (LATIN SMALL LETTER C) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Ancient_Scripts\᚛ᚐᚔᚏᚓ᚜_ogham.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  ᚛ = U+169B (OGHAM FEATHER MARK) [Ps]
+  ᚐ = U+1690 (OGHAM LETTER AILM) [Lo]
+  ᚔ = U+1694 (OGHAM LETTER IODHADH) [Lo]
+  ᚏ = U+168F (OGHAM LETTER RUIS) [Lo]
+  ᚓ = U+1693 (OGHAM LETTER EADHADH) [Lo]
+  ᚜ = U+169C (OGHAM REVERSED FEATHER MARK) [Pe]
+  _ = U+005F (LOW LINE) [Pc]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  g = U+0067 (LATIN SMALL LETTER G) [Ll]
+  h = U+0068 (LATIN SMALL LETTER H) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  m = U+006D (LATIN SMALL LETTER M) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Ancient_Scripts\ᚱᚢᚾᛁᚲ_runes.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  ᚱ = U+16B1 (RUNIC LETTER RAIDO RAD REID R) [Lo]
+  ᚢ = U+16A2 (RUNIC LETTER URUZ UR U) [Lo]
+  ᚾ = U+16BE (RUNIC LETTER NAUDIZ NYD NAUD N) [Lo]
+  ᛁ = U+16C1 (RUNIC LETTER ISAZ IS ISS I) [Lo]
+  ᚲ = U+16B2 (RUNIC LETTER KAUNA) [Lo]
+  _ = U+005F (LOW LINE) [Pc]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  u = U+0075 (LATIN SMALL LETTER U) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Ancient_Scripts\Ⲁ_Ⲃ_Ⲅ_Ⲇ_coptic.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  Ⲁ = U+2C80 (COPTIC CAPITAL LETTER ALFA) [Lu]
+  _ = U+005F (LOW LINE) [Pc]
+  Ⲃ = U+2C82 (COPTIC CAPITAL LETTER VIDA) [Lu]
+  _ = U+005F (LOW LINE) [Pc]
+  Ⲅ = U+2C84 (COPTIC CAPITAL LETTER GAMMA) [Lu]
+  _ = U+005F (LOW LINE) [Pc]
+  Ⲇ = U+2C86 (COPTIC CAPITAL LETTER DALDA) [Lu]
+  _ = U+005F (LOW LINE) [Pc]
+  c = U+0063 (LATIN SMALL LETTER C) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  p = U+0070 (LATIN SMALL LETTER P) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  c = U+0063 (LATIN SMALL LETTER C) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Ancient_Scripts\ᏣᎳᎩ_cherokee.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  Ꮳ = U+13E3 (CHEROKEE LETTER TSA) [Lu]
+  Ꮃ = U+13B3 (CHEROKEE LETTER LA) [Lu]
+  Ꭹ = U+13A9 (CHEROKEE LETTER GI) [Lu]
+  _ = U+005F (LOW LINE) [Pc]
+  c = U+0063 (LATIN SMALL LETTER C) [Ll]
+  h = U+0068 (LATIN SMALL LETTER H) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  k = U+006B (LATIN SMALL LETTER K) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Ancient_Scripts\𐀀𐀁𐀂𐀃_linearB.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  𐀀 = U+10000 (LINEAR B SYLLABLE B008 A) [Lo]
+  𐀁 = U+10001 (LINEAR B SYLLABLE B038 E) [Lo]
+  𐀂 = U+10002 (LINEAR B SYLLABLE B028 I) [Lo]
+  𐀃 = U+10003 (LINEAR B SYLLABLE B061 O) [Lo]
+  _ = U+005F (LOW LINE) [Pc]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  B = U+0042 (LATIN CAPITAL LETTER B) [Lu]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+Issues:
+  - Outside BMP: 𐀀 (U+10000)
+  - Outside BMP: 𐀁 (U+10001)
+  - Outside BMP: 𐀂 (U+10002)
+  - Outside BMP: 𐀃 (U+10003)
+----------------------------------------
+
+File: Ancient_Scripts\𐌰𐌱𐌲𐌳_gothic.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  𐌰 = U+10330 (GOTHIC LETTER AHSA) [Lo]
+  𐌱 = U+10331 (GOTHIC LETTER BAIRKAN) [Lo]
+  𐌲 = U+10332 (GOTHIC LETTER GIBA) [Lo]
+  𐌳 = U+10333 (GOTHIC LETTER DAGS) [Lo]
+  _ = U+005F (LOW LINE) [Pc]
+  g = U+0067 (LATIN SMALL LETTER G) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  h = U+0068 (LATIN SMALL LETTER H) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  c = U+0063 (LATIN SMALL LETTER C) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+Issues:
+  - Outside BMP: 𐌰 (U+10330)
+  - Outside BMP: 𐌱 (U+10331)
+  - Outside BMP: 𐌲 (U+10332)
+  - Outside BMP: 𐌳 (U+10333)
+----------------------------------------
+
+File: Ancient_Scripts\𐎠𐎡𐎢𐎣_oldpersian.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  𐎠 = U+103A0 (OLD PERSIAN SIGN A) [Lo]
+  𐎡 = U+103A1 (OLD PERSIAN SIGN I) [Lo]
+  𐎢 = U+103A2 (OLD PERSIAN SIGN U) [Lo]
+  𐎣 = U+103A3 (OLD PERSIAN SIGN KA) [Lo]
+  _ = U+005F (LOW LINE) [Pc]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  d = U+0064 (LATIN SMALL LETTER D) [Ll]
+  p = U+0070 (LATIN SMALL LETTER P) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+Issues:
+  - Outside BMP: 𐎠 (U+103A0)
+  - Outside BMP: 𐎡 (U+103A1)
+  - Outside BMP: 𐎢 (U+103A2)
+  - Outside BMP: 𐎣 (U+103A3)
+----------------------------------------
+
+File: Ancient_Scripts\𐤀𐤁𐤂𐤃_phoenician.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  𐤀 = U+10900 (PHOENICIAN LETTER ALF) [Lo]
+  𐤁 = U+10901 (PHOENICIAN LETTER BET) [Lo]
+  𐤂 = U+10902 (PHOENICIAN LETTER GAML) [Lo]
+  𐤃 = U+10903 (PHOENICIAN LETTER DELT) [Lo]
+  _ = U+005F (LOW LINE) [Pc]
+  p = U+0070 (LATIN SMALL LETTER P) [Ll]
+  h = U+0068 (LATIN SMALL LETTER H) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  c = U+0063 (LATIN SMALL LETTER C) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+Issues:
+  - Outside BMP: 𐤀 (U+10900)
+  - Outside BMP: 𐤁 (U+10901)
+  - Outside BMP: 𐤂 (U+10902)
+  - Outside BMP: 𐤃 (U+10903)
+----------------------------------------
+
+File: Ancient_Scripts\𒀀𒀁𒀂𒀃_cuneiform.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  𒀀 = U+12000 (CUNEIFORM SIGN A) [Lo]
+  𒀁 = U+12001 (CUNEIFORM SIGN A TIMES A) [Lo]
+  𒀂 = U+12002 (CUNEIFORM SIGN A TIMES BAD) [Lo]
+  𒀃 = U+12003 (CUNEIFORM SIGN A TIMES GAN2 TENU) [Lo]
+  _ = U+005F (LOW LINE) [Pc]
+  c = U+0063 (LATIN SMALL LETTER C) [Ll]
+  u = U+0075 (LATIN SMALL LETTER U) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  f = U+0066 (LATIN SMALL LETTER F) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  m = U+006D (LATIN SMALL LETTER M) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+Issues:
+  - Outside BMP: 𒀀 (U+12000)
+  - Outside BMP: 𒀁 (U+12001)
+  - Outside BMP: 𒀂 (U+12002)
+  - Outside BMP: 𒀃 (U+12003)
+----------------------------------------
+
+File: Ancient_Scripts\𓀀𓀁𓀂𓀃_hieroglyph.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  𓀀 = U+13000 (EGYPTIAN HIEROGLYPH A001) [Lo]
+  𓀁 = U+13001 (EGYPTIAN HIEROGLYPH A002) [Lo]
+  𓀂 = U+13002 (EGYPTIAN HIEROGLYPH A003) [Lo]
+  𓀃 = U+13003 (EGYPTIAN HIEROGLYPH A004) [Lo]
+  _ = U+005F (LOW LINE) [Pc]
+  h = U+0068 (LATIN SMALL LETTER H) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  g = U+0067 (LATIN SMALL LETTER G) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  y = U+0079 (LATIN SMALL LETTER Y) [Ll]
+  p = U+0070 (LATIN SMALL LETTER P) [Ll]
+  h = U+0068 (LATIN SMALL LETTER H) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+Issues:
+  - Outside BMP: 𓀀 (U+13000)
+  - Outside BMP: 𓀁 (U+13001)
+  - Outside BMP: 𓀂 (U+13002)
+  - Outside BMP: 𓀃 (U+13003)
+----------------------------------------
+
+File: Arabic_Hebrew_Persian\דוד_כהן.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  ד = U+05D3 (HEBREW LETTER DALET) [Lo]
+  ו = U+05D5 (HEBREW LETTER VAV) [Lo]
+  ד = U+05D3 (HEBREW LETTER DALET) [Lo]
+  _ = U+005F (LOW LINE) [Pc]
+  כ = U+05DB (HEBREW LETTER KAF) [Lo]
+  ה = U+05D4 (HEBREW LETTER HE) [Lo]
+  ן = U+05DF (HEBREW LETTER FINAL NUN) [Lo]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Arabic_Hebrew_Persian\اردو_نام.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  ا = U+0627 (ARABIC LETTER ALEF) [Lo]
+  ر = U+0631 (ARABIC LETTER REH) [Lo]
+  د = U+062F (ARABIC LETTER DAL) [Lo]
+  و = U+0648 (ARABIC LETTER WAW) [Lo]
+  _ = U+005F (LOW LINE) [Pc]
+  ن = U+0646 (ARABIC LETTER NOON) [Lo]
+  ا = U+0627 (ARABIC LETTER ALEF) [Lo]
+  م = U+0645 (ARABIC LETTER MEEM) [Lo]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Arabic_Hebrew_Persian\علی_احمدی.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  ع = U+0639 (ARABIC LETTER AIN) [Lo]
+  ل = U+0644 (ARABIC LETTER LAM) [Lo]
+  ی = U+06CC (ARABIC LETTER FARSI YEH) [Lo]
+  _ = U+005F (LOW LINE) [Pc]
+  ا = U+0627 (ARABIC LETTER ALEF) [Lo]
+  ح = U+062D (ARABIC LETTER HAH) [Lo]
+  م = U+0645 (ARABIC LETTER MEEM) [Lo]
+  د = U+062F (ARABIC LETTER DAL) [Lo]
+  ی = U+06CC (ARABIC LETTER FARSI YEH) [Lo]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Arabic_Hebrew_Persian\محمد_العربي.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  م = U+0645 (ARABIC LETTER MEEM) [Lo]
+  ح = U+062D (ARABIC LETTER HAH) [Lo]
+  م = U+0645 (ARABIC LETTER MEEM) [Lo]
+  د = U+062F (ARABIC LETTER DAL) [Lo]
+  _ = U+005F (LOW LINE) [Pc]
+  ا = U+0627 (ARABIC LETTER ALEF) [Lo]
+  ل = U+0644 (ARABIC LETTER LAM) [Lo]
+  ع = U+0639 (ARABIC LETTER AIN) [Lo]
+  ر = U+0631 (ARABIC LETTER REH) [Lo]
+  ب = U+0628 (ARABIC LETTER BEH) [Lo]
+  ي = U+064A (ARABIC LETTER YEH) [Lo]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Celtic_Gaelic\Dafydd_Llywelyn.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  D = U+0044 (LATIN CAPITAL LETTER D) [Lu]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  f = U+0066 (LATIN SMALL LETTER F) [Ll]
+  y = U+0079 (LATIN SMALL LETTER Y) [Ll]
+  d = U+0064 (LATIN SMALL LETTER D) [Ll]
+  d = U+0064 (LATIN SMALL LETTER D) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  L = U+004C (LATIN CAPITAL LETTER L) [Lu]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  y = U+0079 (LATIN SMALL LETTER Y) [Ll]
+  w = U+0077 (LATIN SMALL LETTER W) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  y = U+0079 (LATIN SMALL LETTER Y) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Celtic_Gaelic\Dòmhnall_MacLeòid.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  D = U+0044 (LATIN CAPITAL LETTER D) [Lu]
+  ò = U+00F2 (LATIN SMALL LETTER O WITH GRAVE) [Ll]
+  m = U+006D (LATIN SMALL LETTER M) [Ll]
+  h = U+0068 (LATIN SMALL LETTER H) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  M = U+004D (LATIN CAPITAL LETTER M) [Lu]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  c = U+0063 (LATIN SMALL LETTER C) [Ll]
+  L = U+004C (LATIN CAPITAL LETTER L) [Lu]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  ò = U+00F2 (LATIN SMALL LETTER O WITH GRAVE) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  d = U+0064 (LATIN SMALL LETTER D) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Celtic_Gaelic\Séamus_Ó_Murchú.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  S = U+0053 (LATIN CAPITAL LETTER S) [Lu]
+  é = U+00E9 (LATIN SMALL LETTER E WITH ACUTE) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  m = U+006D (LATIN SMALL LETTER M) [Ll]
+  u = U+0075 (LATIN SMALL LETTER U) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  Ó = U+00D3 (LATIN CAPITAL LETTER O WITH ACUTE) [Lu]
+  _ = U+005F (LOW LINE) [Pc]
+  M = U+004D (LATIN CAPITAL LETTER M) [Lu]
+  u = U+0075 (LATIN SMALL LETTER U) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  c = U+0063 (LATIN SMALL LETTER C) [Ll]
+  h = U+0068 (LATIN SMALL LETTER H) [Ll]
+  ú = U+00FA (LATIN SMALL LETTER U WITH ACUTE) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Celtic_Gaelic\Yann_Ar_Gwenn.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  Y = U+0059 (LATIN CAPITAL LETTER Y) [Lu]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  A = U+0041 (LATIN CAPITAL LETTER A) [Lu]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  G = U+0047 (LATIN CAPITAL LETTER G) [Lu]
+  w = U+0077 (LATIN SMALL LETTER W) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Central_European\Jiří_Dvořák.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  J = U+004A (LATIN CAPITAL LETTER J) [Lu]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  ř = U+0159 (LATIN SMALL LETTER R WITH CARON) [Ll]
+  í = U+00ED (LATIN SMALL LETTER I WITH ACUTE) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  D = U+0044 (LATIN CAPITAL LETTER D) [Lu]
+  v = U+0076 (LATIN SMALL LETTER V) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  ř = U+0159 (LATIN SMALL LETTER R WITH CARON) [Ll]
+  á = U+00E1 (LATIN SMALL LETTER A WITH ACUTE) [Ll]
+  k = U+006B (LATIN SMALL LETTER K) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Central_European\Jānis_Liepiņš.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  J = U+004A (LATIN CAPITAL LETTER J) [Lu]
+  ā = U+0101 (LATIN SMALL LETTER A WITH MACRON) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  L = U+004C (LATIN CAPITAL LETTER L) [Lu]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  p = U+0070 (LATIN SMALL LETTER P) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  ņ = U+0146 (LATIN SMALL LETTER N WITH CEDILLA) [Ll]
+  š = U+0161 (LATIN SMALL LETTER S WITH CARON) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Central_European\László_Szabó.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  L = U+004C (LATIN CAPITAL LETTER L) [Lu]
+  á = U+00E1 (LATIN SMALL LETTER A WITH ACUTE) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  z = U+007A (LATIN SMALL LETTER Z) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  ó = U+00F3 (LATIN SMALL LETTER O WITH ACUTE) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  S = U+0053 (LATIN CAPITAL LETTER S) [Lu]
+  z = U+007A (LATIN SMALL LETTER Z) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  b = U+0062 (LATIN SMALL LETTER B) [Ll]
+  ó = U+00F3 (LATIN SMALL LETTER O WITH ACUTE) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Central_European\Matjaž_Kovač.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  M = U+004D (LATIN CAPITAL LETTER M) [Lu]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  j = U+006A (LATIN SMALL LETTER J) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  ž = U+017E (LATIN SMALL LETTER Z WITH CARON) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  K = U+004B (LATIN CAPITAL LETTER K) [Lu]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  v = U+0076 (LATIN SMALL LETTER V) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  č = U+010D (LATIN SMALL LETTER C WITH CARON) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Central_European\Wojciech_Łukasz.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  W = U+0057 (LATIN CAPITAL LETTER W) [Lu]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  j = U+006A (LATIN SMALL LETTER J) [Ll]
+  c = U+0063 (LATIN SMALL LETTER C) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  c = U+0063 (LATIN SMALL LETTER C) [Ll]
+  h = U+0068 (LATIN SMALL LETTER H) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  Ł = U+0141 (LATIN CAPITAL LETTER L WITH STROKE) [Lu]
+  u = U+0075 (LATIN SMALL LETTER U) [Ll]
+  k = U+006B (LATIN SMALL LETTER K) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  z = U+007A (LATIN SMALL LETTER Z) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Central_European\Ľubomír_Kráľ.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  Ľ = U+013D (LATIN CAPITAL LETTER L WITH CARON) [Lu]
+  u = U+0075 (LATIN SMALL LETTER U) [Ll]
+  b = U+0062 (LATIN SMALL LETTER B) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  m = U+006D (LATIN SMALL LETTER M) [Ll]
+  í = U+00ED (LATIN SMALL LETTER I WITH ACUTE) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  K = U+004B (LATIN CAPITAL LETTER K) [Lu]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  á = U+00E1 (LATIN SMALL LETTER A WITH ACUTE) [Ll]
+  ľ = U+013E (LATIN SMALL LETTER L WITH CARON) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Central_European\Željko_Horvat.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  Ž = U+017D (LATIN CAPITAL LETTER Z WITH CARON) [Lu]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  j = U+006A (LATIN SMALL LETTER J) [Ll]
+  k = U+006B (LATIN SMALL LETTER K) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  H = U+0048 (LATIN CAPITAL LETTER H) [Lu]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  v = U+0076 (LATIN SMALL LETTER V) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Central_European\Žygimantas_Lietuvėlis.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  Ž = U+017D (LATIN CAPITAL LETTER Z WITH CARON) [Lu]
+  y = U+0079 (LATIN SMALL LETTER Y) [Ll]
+  g = U+0067 (LATIN SMALL LETTER G) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  m = U+006D (LATIN SMALL LETTER M) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  L = U+004C (LATIN CAPITAL LETTER L) [Lu]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  u = U+0075 (LATIN SMALL LETTER U) [Ll]
+  v = U+0076 (LATIN SMALL LETTER V) [Ll]
+  ė = U+0117 (LATIN SMALL LETTER E WITH DOT ABOVE) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Central_European\Ștefan_Ionescu.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  Ș = U+0218 (LATIN CAPITAL LETTER S WITH COMMA BELOW) [Lu]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  f = U+0066 (LATIN SMALL LETTER F) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  I = U+0049 (LATIN CAPITAL LETTER I) [Lu]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  c = U+0063 (LATIN SMALL LETTER C) [Ll]
+  u = U+0075 (LATIN SMALL LETTER U) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Cyrillic\Владимир_Петров.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  В = U+0412 (CYRILLIC CAPITAL LETTER VE) [Lu]
+  л = U+043B (CYRILLIC SMALL LETTER EL) [Ll]
+  а = U+0430 (CYRILLIC SMALL LETTER A) [Ll]
+  д = U+0434 (CYRILLIC SMALL LETTER DE) [Ll]
+  и = U+0438 (CYRILLIC SMALL LETTER I) [Ll]
+  м = U+043C (CYRILLIC SMALL LETTER EM) [Ll]
+  и = U+0438 (CYRILLIC SMALL LETTER I) [Ll]
+  р = U+0440 (CYRILLIC SMALL LETTER ER) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  П = U+041F (CYRILLIC CAPITAL LETTER PE) [Lu]
+  е = U+0435 (CYRILLIC SMALL LETTER IE) [Ll]
+  т = U+0442 (CYRILLIC SMALL LETTER TE) [Ll]
+  р = U+0440 (CYRILLIC SMALL LETTER ER) [Ll]
+  о = U+043E (CYRILLIC SMALL LETTER O) [Ll]
+  в = U+0432 (CYRILLIC SMALL LETTER VE) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Cyrillic\Георги_Димитров.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  Г = U+0413 (CYRILLIC CAPITAL LETTER GHE) [Lu]
+  е = U+0435 (CYRILLIC SMALL LETTER IE) [Ll]
+  о = U+043E (CYRILLIC SMALL LETTER O) [Ll]
+  р = U+0440 (CYRILLIC SMALL LETTER ER) [Ll]
+  г = U+0433 (CYRILLIC SMALL LETTER GHE) [Ll]
+  и = U+0438 (CYRILLIC SMALL LETTER I) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  Д = U+0414 (CYRILLIC CAPITAL LETTER DE) [Lu]
+  и = U+0438 (CYRILLIC SMALL LETTER I) [Ll]
+  м = U+043C (CYRILLIC SMALL LETTER EM) [Ll]
+  и = U+0438 (CYRILLIC SMALL LETTER I) [Ll]
+  т = U+0442 (CYRILLIC SMALL LETTER TE) [Ll]
+  р = U+0440 (CYRILLIC SMALL LETTER ER) [Ll]
+  о = U+043E (CYRILLIC SMALL LETTER O) [Ll]
+  в = U+0432 (CYRILLIC SMALL LETTER VE) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Cyrillic\Милош_Ђорђевић.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  М = U+041C (CYRILLIC CAPITAL LETTER EM) [Lu]
+  и = U+0438 (CYRILLIC SMALL LETTER I) [Ll]
+  л = U+043B (CYRILLIC SMALL LETTER EL) [Ll]
+  о = U+043E (CYRILLIC SMALL LETTER O) [Ll]
+  ш = U+0448 (CYRILLIC SMALL LETTER SHA) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  Ђ = U+0402 (CYRILLIC CAPITAL LETTER DJE) [Lu]
+  о = U+043E (CYRILLIC SMALL LETTER O) [Ll]
+  р = U+0440 (CYRILLIC SMALL LETTER ER) [Ll]
+  ђ = U+0452 (CYRILLIC SMALL LETTER DJE) [Ll]
+  е = U+0435 (CYRILLIC SMALL LETTER IE) [Ll]
+  в = U+0432 (CYRILLIC SMALL LETTER VE) [Ll]
+  и = U+0438 (CYRILLIC SMALL LETTER I) [Ll]
+  ћ = U+045B (CYRILLIC SMALL LETTER TSHE) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Cyrillic\Нұрсұлтан_Әбішұлы.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  Н = U+041D (CYRILLIC CAPITAL LETTER EN) [Lu]
+  ұ = U+04B1 (CYRILLIC SMALL LETTER STRAIGHT U WITH STROKE) [Ll]
+  р = U+0440 (CYRILLIC SMALL LETTER ER) [Ll]
+  с = U+0441 (CYRILLIC SMALL LETTER ES) [Ll]
+  ұ = U+04B1 (CYRILLIC SMALL LETTER STRAIGHT U WITH STROKE) [Ll]
+  л = U+043B (CYRILLIC SMALL LETTER EL) [Ll]
+  т = U+0442 (CYRILLIC SMALL LETTER TE) [Ll]
+  а = U+0430 (CYRILLIC SMALL LETTER A) [Ll]
+  н = U+043D (CYRILLIC SMALL LETTER EN) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  Ә = U+04D8 (CYRILLIC CAPITAL LETTER SCHWA) [Lu]
+  б = U+0431 (CYRILLIC SMALL LETTER BE) [Ll]
+  і = U+0456 (CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I) [Ll]
+  ш = U+0448 (CYRILLIC SMALL LETTER SHA) [Ll]
+  ұ = U+04B1 (CYRILLIC SMALL LETTER STRAIGHT U WITH STROKE) [Ll]
+  л = U+043B (CYRILLIC SMALL LETTER EL) [Ll]
+  ы = U+044B (CYRILLIC SMALL LETTER YERU) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Cyrillic\Олександр_Коваленко.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  О = U+041E (CYRILLIC CAPITAL LETTER O) [Lu]
+  л = U+043B (CYRILLIC SMALL LETTER EL) [Ll]
+  е = U+0435 (CYRILLIC SMALL LETTER IE) [Ll]
+  к = U+043A (CYRILLIC SMALL LETTER KA) [Ll]
+  с = U+0441 (CYRILLIC SMALL LETTER ES) [Ll]
+  а = U+0430 (CYRILLIC SMALL LETTER A) [Ll]
+  н = U+043D (CYRILLIC SMALL LETTER EN) [Ll]
+  д = U+0434 (CYRILLIC SMALL LETTER DE) [Ll]
+  р = U+0440 (CYRILLIC SMALL LETTER ER) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  К = U+041A (CYRILLIC CAPITAL LETTER KA) [Lu]
+  о = U+043E (CYRILLIC SMALL LETTER O) [Ll]
+  в = U+0432 (CYRILLIC SMALL LETTER VE) [Ll]
+  а = U+0430 (CYRILLIC SMALL LETTER A) [Ll]
+  л = U+043B (CYRILLIC SMALL LETTER EL) [Ll]
+  е = U+0435 (CYRILLIC SMALL LETTER IE) [Ll]
+  н = U+043D (CYRILLIC SMALL LETTER EN) [Ll]
+  к = U+043A (CYRILLIC SMALL LETTER KA) [Ll]
+  о = U+043E (CYRILLIC SMALL LETTER O) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Cyrillic\Ӕ_Ә_Ө_cyrillic_ext.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  Ӕ = U+04D4 (CYRILLIC CAPITAL LIGATURE A IE) [Lu]
+  _ = U+005F (LOW LINE) [Pc]
+  Ә = U+04D8 (CYRILLIC CAPITAL LETTER SCHWA) [Lu]
+  _ = U+005F (LOW LINE) [Pc]
+  Ө = U+04E8 (CYRILLIC CAPITAL LETTER BARRED O) [Lu]
+  _ = U+005F (LOW LINE) [Pc]
+  c = U+0063 (LATIN SMALL LETTER C) [Ll]
+  y = U+0079 (LATIN SMALL LETTER Y) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  c = U+0063 (LATIN SMALL LETTER C) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: East_Asian\さくら_はな.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  さ = U+3055 (HIRAGANA LETTER SA) [Lo]
+  く = U+304F (HIRAGANA LETTER KU) [Lo]
+  ら = U+3089 (HIRAGANA LETTER RA) [Lo]
+  _ = U+005F (LOW LINE) [Pc]
+  は = U+306F (HIRAGANA LETTER HA) [Lo]
+  な = U+306A (HIRAGANA LETTER NA) [Lo]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: East_Asian\アイウエオカキクケコサシスセソタチツテトナニヌネノ.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  ア = U+30A2 (KATAKANA LETTER A) [Lo]
+  イ = U+30A4 (KATAKANA LETTER I) [Lo]
+  ウ = U+30A6 (KATAKANA LETTER U) [Lo]
+  エ = U+30A8 (KATAKANA LETTER E) [Lo]
+  オ = U+30AA (KATAKANA LETTER O) [Lo]
+  カ = U+30AB (KATAKANA LETTER KA) [Lo]
+  キ = U+30AD (KATAKANA LETTER KI) [Lo]
+  ク = U+30AF (KATAKANA LETTER KU) [Lo]
+  ケ = U+30B1 (KATAKANA LETTER KE) [Lo]
+  コ = U+30B3 (KATAKANA LETTER KO) [Lo]
+  サ = U+30B5 (KATAKANA LETTER SA) [Lo]
+  シ = U+30B7 (KATAKANA LETTER SI) [Lo]
+  ス = U+30B9 (KATAKANA LETTER SU) [Lo]
+  セ = U+30BB (KATAKANA LETTER SE) [Lo]
+  ソ = U+30BD (KATAKANA LETTER SO) [Lo]
+  タ = U+30BF (KATAKANA LETTER TA) [Lo]
+  チ = U+30C1 (KATAKANA LETTER TI) [Lo]
+  ツ = U+30C4 (KATAKANA LETTER TU) [Lo]
+  テ = U+30C6 (KATAKANA LETTER TE) [Lo]
+  ト = U+30C8 (KATAKANA LETTER TO) [Lo]
+  ナ = U+30CA (KATAKANA LETTER NA) [Lo]
+  ニ = U+30CB (KATAKANA LETTER NI) [Lo]
+  ヌ = U+30CC (KATAKANA LETTER NU) [Lo]
+  ネ = U+30CD (KATAKANA LETTER NE) [Lo]
+  ノ = U+30CE (KATAKANA LETTER NO) [Lo]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: East_Asian\タケシ_ユキコ.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  タ = U+30BF (KATAKANA LETTER TA) [Lo]
+  ケ = U+30B1 (KATAKANA LETTER KE) [Lo]
+  シ = U+30B7 (KATAKANA LETTER SI) [Lo]
+  _ = U+005F (LOW LINE) [Pc]
+  ユ = U+30E6 (KATAKANA LETTER YU) [Lo]
+  キ = U+30AD (KATAKANA LETTER KI) [Lo]
+  コ = U+30B3 (KATAKANA LETTER KO) [Lo]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: East_Asian\ㄅㄆㄇㄈ_bopomofo.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  ㄅ = U+3105 (BOPOMOFO LETTER B) [Lo]
+  ㄆ = U+3106 (BOPOMOFO LETTER P) [Lo]
+  ㄇ = U+3107 (BOPOMOFO LETTER M) [Lo]
+  ㄈ = U+3108 (BOPOMOFO LETTER F) [Lo]
+  _ = U+005F (LOW LINE) [Pc]
+  b = U+0062 (LATIN SMALL LETTER B) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  p = U+0070 (LATIN SMALL LETTER P) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  m = U+006D (LATIN SMALL LETTER M) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  f = U+0066 (LATIN SMALL LETTER F) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: East_Asian\ㄱㄴㄷ_ㅏㅓㅗ_jamo.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  ㄱ = U+3131 (HANGUL LETTER KIYEOK) [Lo]
+  ㄴ = U+3134 (HANGUL LETTER NIEUN) [Lo]
+  ㄷ = U+3137 (HANGUL LETTER TIKEUT) [Lo]
+  _ = U+005F (LOW LINE) [Pc]
+  ㅏ = U+314F (HANGUL LETTER A) [Lo]
+  ㅓ = U+3153 (HANGUL LETTER EO) [Lo]
+  ㅗ = U+3157 (HANGUL LETTER O) [Lo]
+  _ = U+005F (LOW LINE) [Pc]
+  j = U+006A (LATIN SMALL LETTER J) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  m = U+006D (LATIN SMALL LETTER M) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: East_Asian\㈱_㊗_㊙_CJK.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  ㈱ = U+3231 (PARENTHESIZED IDEOGRAPH STOCK) [So]
+  _ = U+005F (LOW LINE) [Pc]
+  ㊗ = U+3297 (CIRCLED IDEOGRAPH CONGRATULATION) [So]
+  _ = U+005F (LOW LINE) [Pc]
+  ㊙ = U+3299 (CIRCLED IDEOGRAPH SECRET) [So]
+  _ = U+005F (LOW LINE) [Pc]
+  C = U+0043 (LATIN CAPITAL LETTER C) [Lu]
+  J = U+004A (LATIN CAPITAL LETTER J) [Lu]
+  K = U+004B (LATIN CAPITAL LETTER K) [Lu]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: East_Asian\張偉_陳麗.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  張 = U+5F35 (CJK UNIFIED IDEOGRAPH-5F35) [Lo]
+  偉 = U+5049 (CJK UNIFIED IDEOGRAPH-5049) [Lo]
+  _ = U+005F (LOW LINE) [Pc]
+  陳 = U+9673 (CJK UNIFIED IDEOGRAPH-9673) [Lo]
+  麗 = U+9E97 (CJK UNIFIED IDEOGRAPH-9E97) [Lo]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: East_Asian\王明_李华.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  王 = U+738B (CJK UNIFIED IDEOGRAPH-738B) [Lo]
+  明 = U+660E (CJK UNIFIED IDEOGRAPH-660E) [Lo]
+  _ = U+005F (LOW LINE) [Pc]
+  李 = U+674E (CJK UNIFIED IDEOGRAPH-674E) [Lo]
+  华 = U+534E (CJK UNIFIED IDEOGRAPH-534E) [Lo]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: East_Asian\田中太郎_山田花子.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  田 = U+7530 (CJK UNIFIED IDEOGRAPH-7530) [Lo]
+  中 = U+4E2D (CJK UNIFIED IDEOGRAPH-4E2D) [Lo]
+  太 = U+592A (CJK UNIFIED IDEOGRAPH-592A) [Lo]
+  郎 = U+90CE (CJK UNIFIED IDEOGRAPH-90CE) [Lo]
+  _ = U+005F (LOW LINE) [Pc]
+  山 = U+5C71 (CJK UNIFIED IDEOGRAPH-5C71) [Lo]
+  田 = U+7530 (CJK UNIFIED IDEOGRAPH-7530) [Lo]
+  花 = U+82B1 (CJK UNIFIED IDEOGRAPH-82B1) [Lo]
+  子 = U+5B50 (CJK UNIFIED IDEOGRAPH-5B50) [Lo]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: East_Asian\김철수_박영희.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  김 = U+AE40 (HANGUL SYLLABLE GIM) [Lo]
+  철 = U+CCA0 (HANGUL SYLLABLE CEOL) [Lo]
+  수 = U+C218 (HANGUL SYLLABLE SU) [Lo]
+  _ = U+005F (LOW LINE) [Pc]
+  박 = U+BC15 (HANGUL SYLLABLE BAG) [Lo]
+  영 = U+C601 (HANGUL SYLLABLE YEONG) [Lo]
+  희 = U+D76C (HANGUL SYLLABLE HYI) [Lo]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Edge_Cases\A–B_A—B_dashes.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  A = U+0041 (LATIN CAPITAL LETTER A) [Lu]
+  – = U+2013 (EN DASH) [Pd]
+  B = U+0042 (LATIN CAPITAL LETTER B) [Lu]
+  _ = U+005F (LOW LINE) [Pc]
+  A = U+0041 (LATIN CAPITAL LETTER A) [Lu]
+  — = U+2014 (EM DASH) [Pd]
+  B = U+0042 (LATIN CAPITAL LETTER B) [Lu]
+  _ = U+005F (LOW LINE) [Pc]
+  d = U+0064 (LATIN SMALL LETTER D) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  h = U+0068 (LATIN SMALL LETTER H) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Edge_Cases\curly_German_quotes.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  c = U+0063 (LATIN SMALL LETTER C) [Ll]
+  u = U+0075 (LATIN SMALL LETTER U) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  y = U+0079 (LATIN SMALL LETTER Y) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  G = U+0047 (LATIN CAPITAL LETTER G) [Lu]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  m = U+006D (LATIN SMALL LETTER M) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  q = U+0071 (LATIN SMALL LETTER Q) [Ll]
+  u = U+0075 (LATIN SMALL LETTER U) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Edge_Cases\Hidden​Chars_zerowidth.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  H = U+0048 (LATIN CAPITAL LETTER H) [Lu]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  d = U+0064 (LATIN SMALL LETTER D) [Ll]
+  d = U+0064 (LATIN SMALL LETTER D) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  ​ = U+200B (ZERO WIDTH SPACE) [Cf]
+  C = U+0043 (LATIN CAPITAL LETTER C) [Lu]
+  h = U+0068 (LATIN SMALL LETTER H) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  z = U+007A (LATIN SMALL LETTER Z) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  w = U+0077 (LATIN SMALL LETTER W) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  d = U+0064 (LATIN SMALL LETTER D) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  h = U+0068 (LATIN SMALL LETTER H) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+Issues:
+  - Format char: U+200B
+----------------------------------------
+
+File: Edge_Cases\H̸̡̪̯ë̵͎l̶̬̈l̴̞̅o̷̧͋_zalgo.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  H = U+0048 (LATIN CAPITAL LETTER H) [Lu]
+  ̸ = U+0338 (COMBINING LONG SOLIDUS OVERLAY) [Mn]
+  ̡ = U+0321 (COMBINING PALATALIZED HOOK BELOW) [Mn]
+  ̪ = U+032A (COMBINING BRIDGE BELOW) [Mn]
+  ̯ = U+032F (COMBINING INVERTED BREVE BELOW) [Mn]
+  ë = U+00EB (LATIN SMALL LETTER E WITH DIAERESIS) [Ll]
+  ̵ = U+0335 (COMBINING SHORT STROKE OVERLAY) [Mn]
+  ͎ = U+034E (COMBINING UPWARDS ARROW BELOW) [Mn]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  ̶ = U+0336 (COMBINING LONG STROKE OVERLAY) [Mn]
+  ̬ = U+032C (COMBINING CARON BELOW) [Mn]
+  ̈ = U+0308 (COMBINING DIAERESIS) [Mn]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  ̴ = U+0334 (COMBINING TILDE OVERLAY) [Mn]
+  ̞ = U+031E (COMBINING DOWN TACK BELOW) [Mn]
+  ̅ = U+0305 (COMBINING OVERLINE) [Mn]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  ̷ = U+0337 (COMBINING SHORT SOLIDUS OVERLAY) [Mn]
+  ̧ = U+0327 (COMBINING CEDILLA) [Mn]
+  ͋ = U+034B (COMBINING HOMOTHETIC ABOVE) [Mn]
+  _ = U+005F (LOW LINE) [Pc]
+  z = U+007A (LATIN SMALL LETTER Z) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  g = U+0067 (LATIN SMALL LETTER G) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+Issues:
+  - Combining mark: ̸ (U+0338)
+  - Combining mark: ̡ (U+0321)
+  - Combining mark: ̪ (U+032A)
+  - Combining mark: ̯ (U+032F)
+  - Combining mark: ̵ (U+0335)
+  - Combining mark: ͎ (U+034E)
+  - Combining mark: ̶ (U+0336)
+  - Combining mark: ̬ (U+032C)
+  - Combining mark: ̈ (U+0308)
+  - Combining mark: ̴ (U+0334)
+  - Combining mark: ̞ (U+031E)
+  - Combining mark: ̅ (U+0305)
+  - Combining mark: ̷ (U+0337)
+  - Combining mark: ̧ (U+0327)
+  - Combining mark: ͋ (U+034B)
+----------------------------------------
+
 File: Edge_Cases\H₂O_E=mc².txt
-Error: 
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
 Codepoints:
   H = U+0048 (LATIN CAPITAL LETTER H) [Lu]
   ₂ = U+2082 (SUBSCRIPT TWO) [No]
@@ -20,11 +1580,1020 @@ Codepoints:
   t = U+0074 (LATIN SMALL LETTER T) [Ll]
 ----------------------------------------
 
+File: Edge_Cases\various_spaces.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  v = U+0076 (LATIN SMALL LETTER V) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  u = U+0075 (LATIN SMALL LETTER U) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  p = U+0070 (LATIN SMALL LETTER P) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  c = U+0063 (LATIN SMALL LETTER C) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Edge_Cases\½_⅓_¼_fractions.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  ½ = U+00BD (VULGAR FRACTION ONE HALF) [No]
+  _ = U+005F (LOW LINE) [Pc]
+  ⅓ = U+2153 (VULGAR FRACTION ONE THIRD) [No]
+  _ = U+005F (LOW LINE) [Pc]
+  ¼ = U+00BC (VULGAR FRACTION ONE QUARTER) [No]
+  _ = U+005F (LOW LINE) [Pc]
+  f = U+0066 (LATIN SMALL LETTER F) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  c = U+0063 (LATIN SMALL LETTER C) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Edge_Cases\ɐqɔp_ǝɟƃɥ_upside.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  ɐ = U+0250 (LATIN SMALL LETTER TURNED A) [Ll]
+  q = U+0071 (LATIN SMALL LETTER Q) [Ll]
+  ɔ = U+0254 (LATIN SMALL LETTER OPEN O) [Ll]
+  p = U+0070 (LATIN SMALL LETTER P) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  ǝ = U+01DD (LATIN SMALL LETTER TURNED E) [Ll]
+  ɟ = U+025F (LATIN SMALL LETTER DOTLESS J WITH STROKE) [Ll]
+  ƃ = U+0183 (LATIN SMALL LETTER B WITH TOPBAR) [Ll]
+  ɥ = U+0265 (LATIN SMALL LETTER TURNED H) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  u = U+0075 (LATIN SMALL LETTER U) [Ll]
+  p = U+0070 (LATIN SMALL LETTER P) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  d = U+0064 (LATIN SMALL LETTER D) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Edge_Cases\ʃʒθðŋ_IPA.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  ʃ = U+0283 (LATIN SMALL LETTER ESH) [Ll]
+  ʒ = U+0292 (LATIN SMALL LETTER EZH) [Ll]
+  θ = U+03B8 (GREEK SMALL LETTER THETA) [Ll]
+  ð = U+00F0 (LATIN SMALL LETTER ETH) [Ll]
+  ŋ = U+014B (LATIN SMALL LETTER ENG) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  I = U+0049 (LATIN CAPITAL LETTER I) [Lu]
+  P = U+0050 (LATIN CAPITAL LETTER P) [Lu]
+  A = U+0041 (LATIN CAPITAL LETTER A) [Lu]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Edge_Cases\ᴛᴇsᴛ_ꜰɪʟᴇ_smallcaps.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  ᴛ = U+1D1B (LATIN LETTER SMALL CAPITAL T) [Ll]
+  ᴇ = U+1D07 (LATIN LETTER SMALL CAPITAL E) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  ᴛ = U+1D1B (LATIN LETTER SMALL CAPITAL T) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  ꜰ = U+A730 (LATIN LETTER SMALL CAPITAL F) [Ll]
+  ɪ = U+026A (LATIN LETTER SMALL CAPITAL I) [Ll]
+  ʟ = U+029F (LATIN LETTER SMALL CAPITAL L) [Ll]
+  ᴇ = U+1D07 (LATIN LETTER SMALL CAPITAL E) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  m = U+006D (LATIN SMALL LETTER M) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  c = U+0063 (LATIN SMALL LETTER C) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  p = U+0070 (LATIN SMALL LETTER P) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Edge_Cases\Ḁ̈_Ẁ̀_Ḗ̂_combining.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  Ḁ = U+1E00 (LATIN CAPITAL LETTER A WITH RING BELOW) [Lu]
+  ̈ = U+0308 (COMBINING DIAERESIS) [Mn]
+  _ = U+005F (LOW LINE) [Pc]
+  Ẁ = U+1E80 (LATIN CAPITAL LETTER W WITH GRAVE) [Lu]
+  ̀ = U+0300 (COMBINING GRAVE ACCENT) [Mn]
+  _ = U+005F (LOW LINE) [Pc]
+  Ḗ = U+1E16 (LATIN CAPITAL LETTER E WITH MACRON AND ACUTE) [Lu]
+  ̂ = U+0302 (COMBINING CIRCUMFLEX ACCENT) [Mn]
+  _ = U+005F (LOW LINE) [Pc]
+  c = U+0063 (LATIN SMALL LETTER C) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  m = U+006D (LATIN SMALL LETTER M) [Ll]
+  b = U+0062 (LATIN SMALL LETTER B) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  g = U+0067 (LATIN SMALL LETTER G) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+Issues:
+  - Combining mark: ̈ (U+0308)
+  - Combining mark: ̀ (U+0300)
+  - Combining mark: ̂ (U+0302)
+----------------------------------------
+
+File: Edge_Cases\…_ellipsis.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  … = U+2026 (HORIZONTAL ELLIPSIS) [Po]
+  _ = U+005F (LOW LINE) [Pc]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  p = U+0070 (LATIN SMALL LETTER P) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Edge_Cases\‮reversed‬_RTL.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  ‮ = U+202E (RIGHT-TO-LEFT OVERRIDE) [Cf]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  v = U+0076 (LATIN SMALL LETTER V) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  d = U+0064 (LATIN SMALL LETTER D) [Ll]
+  ‬ = U+202C (POP DIRECTIONAL FORMATTING) [Cf]
+  _ = U+005F (LOW LINE) [Pc]
+  R = U+0052 (LATIN CAPITAL LETTER R) [Lu]
+  T = U+0054 (LATIN CAPITAL LETTER T) [Lu]
+  L = U+004C (LATIN CAPITAL LETTER L) [Lu]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+Issues:
+  - Format char: U+202E
+  - Format char: U+202C
+----------------------------------------
+
+File: Edge_Cases\Ⅰ_Ⅱ_Ⅲ_Ⅳ_Ⅴ_roman.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  Ⅰ = U+2160 (ROMAN NUMERAL ONE) [Nl]
+  _ = U+005F (LOW LINE) [Pc]
+  Ⅱ = U+2161 (ROMAN NUMERAL TWO) [Nl]
+  _ = U+005F (LOW LINE) [Pc]
+  Ⅲ = U+2162 (ROMAN NUMERAL THREE) [Nl]
+  _ = U+005F (LOW LINE) [Pc]
+  Ⅳ = U+2163 (ROMAN NUMERAL FOUR) [Nl]
+  _ = U+005F (LOW LINE) [Pc]
+  Ⅴ = U+2164 (ROMAN NUMERAL FIVE) [Nl]
+  _ = U+005F (LOW LINE) [Pc]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  m = U+006D (LATIN SMALL LETTER M) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Edge_Cases\⒜⒝⒞_⑴⑵⑶_paren.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  ⒜ = U+249C (PARENTHESIZED LATIN SMALL LETTER A) [So]
+  ⒝ = U+249D (PARENTHESIZED LATIN SMALL LETTER B) [So]
+  ⒞ = U+249E (PARENTHESIZED LATIN SMALL LETTER C) [So]
+  _ = U+005F (LOW LINE) [Pc]
+  ⑴ = U+2474 (PARENTHESIZED DIGIT ONE) [No]
+  ⑵ = U+2475 (PARENTHESIZED DIGIT TWO) [No]
+  ⑶ = U+2476 (PARENTHESIZED DIGIT THREE) [No]
+  _ = U+005F (LOW LINE) [Pc]
+  p = U+0070 (LATIN SMALL LETTER P) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Edge_Cases\Ⓐ_Ⓑ_Ⓒ_①②③_circled.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  Ⓐ = U+24B6 (CIRCLED LATIN CAPITAL LETTER A) [So]
+  _ = U+005F (LOW LINE) [Pc]
+  Ⓑ = U+24B7 (CIRCLED LATIN CAPITAL LETTER B) [So]
+  _ = U+005F (LOW LINE) [Pc]
+  Ⓒ = U+24B8 (CIRCLED LATIN CAPITAL LETTER C) [So]
+  _ = U+005F (LOW LINE) [Pc]
+  ① = U+2460 (CIRCLED DIGIT ONE) [No]
+  ② = U+2461 (CIRCLED DIGIT TWO) [No]
+  ③ = U+2462 (CIRCLED DIGIT THREE) [No]
+  _ = U+005F (LOW LINE) [Pc]
+  c = U+0063 (LATIN SMALL LETTER C) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  c = U+0063 (LATIN SMALL LETTER C) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  d = U+0064 (LATIN SMALL LETTER D) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Edge_Cases\ﬁ_ﬂ_ligatures.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  ﬁ = U+FB01 (LATIN SMALL LIGATURE FI) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  ﬂ = U+FB02 (LATIN SMALL LIGATURE FL) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  g = U+0067 (LATIN SMALL LETTER G) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  u = U+0075 (LATIN SMALL LETTER U) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Edge_Cases\Ａｌｅｘ_Ｗｉｄｅ.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  Ａ = U+FF21 (FULLWIDTH LATIN CAPITAL LETTER A) [Lu]
+  ｌ = U+FF4C (FULLWIDTH LATIN SMALL LETTER L) [Ll]
+  ｅ = U+FF45 (FULLWIDTH LATIN SMALL LETTER E) [Ll]
+  ｘ = U+FF58 (FULLWIDTH LATIN SMALL LETTER X) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  Ｗ = U+FF37 (FULLWIDTH LATIN CAPITAL LETTER W) [Lu]
+  ｉ = U+FF49 (FULLWIDTH LATIN SMALL LETTER I) [Ll]
+  ｄ = U+FF44 (FULLWIDTH LATIN SMALL LETTER D) [Ll]
+  ｅ = U+FF45 (FULLWIDTH LATIN SMALL LETTER E) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Edge_Cases\𝐇𝐞𝐥𝐥𝐨_mathbold.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  𝐇 = U+1D407 (MATHEMATICAL BOLD CAPITAL H) [Lu]
+  𝐞 = U+1D41E (MATHEMATICAL BOLD SMALL E) [Ll]
+  𝐥 = U+1D425 (MATHEMATICAL BOLD SMALL L) [Ll]
+  𝐥 = U+1D425 (MATHEMATICAL BOLD SMALL L) [Ll]
+  𝐨 = U+1D428 (MATHEMATICAL BOLD SMALL O) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  m = U+006D (LATIN SMALL LETTER M) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  h = U+0068 (LATIN SMALL LETTER H) [Ll]
+  b = U+0062 (LATIN SMALL LETTER B) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  d = U+0064 (LATIN SMALL LETTER D) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+Issues:
+  - Outside BMP: 𝐇 (U+1D407)
+  - Outside BMP: 𝐞 (U+1D41E)
+  - Outside BMP: 𝐥 (U+1D425)
+  - Outside BMP: 𝐥 (U+1D425)
+  - Outside BMP: 𝐨 (U+1D428)
+----------------------------------------
+
+File: Emoji_Symbols\©_®_™_symbols.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  © = U+00A9 (COPYRIGHT SIGN) [So]
+  _ = U+005F (LOW LINE) [Pc]
+  ® = U+00AE (REGISTERED SIGN) [So]
+  _ = U+005F (LOW LINE) [Pc]
+  ™ = U+2122 (TRADE MARK SIGN) [So]
+  _ = U+005F (LOW LINE) [Pc]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  y = U+0079 (LATIN SMALL LETTER Y) [Ll]
+  m = U+006D (LATIN SMALL LETTER M) [Ll]
+  b = U+0062 (LATIN SMALL LETTER B) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Emoji_Symbols\€_£_¥_₹_₿_currency.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  € = U+20AC (EURO SIGN) [Sc]
+  _ = U+005F (LOW LINE) [Pc]
+  £ = U+00A3 (POUND SIGN) [Sc]
+  _ = U+005F (LOW LINE) [Pc]
+  ¥ = U+00A5 (YEN SIGN) [Sc]
+  _ = U+005F (LOW LINE) [Pc]
+  ₹ = U+20B9 (INDIAN RUPEE SIGN) [Sc]
+  _ = U+005F (LOW LINE) [Pc]
+  ₿ = U+20BF (BITCOIN SIGN) [Sc]
+  _ = U+005F (LOW LINE) [Pc]
+  c = U+0063 (LATIN SMALL LETTER C) [Ll]
+  u = U+0075 (LATIN SMALL LETTER U) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  c = U+0063 (LATIN SMALL LETTER C) [Ll]
+  y = U+0079 (LATIN SMALL LETTER Y) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Emoji_Symbols\←→↑↓_●■_shapes.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  ← = U+2190 (LEFTWARDS ARROW) [Sm]
+  → = U+2192 (RIGHTWARDS ARROW) [Sm]
+  ↑ = U+2191 (UPWARDS ARROW) [Sm]
+  ↓ = U+2193 (DOWNWARDS ARROW) [Sm]
+  _ = U+005F (LOW LINE) [Pc]
+  ● = U+25CF (BLACK CIRCLE) [So]
+  ■ = U+25A0 (BLACK SQUARE) [So]
+  _ = U+005F (LOW LINE) [Pc]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  h = U+0068 (LATIN SMALL LETTER H) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  p = U+0070 (LATIN SMALL LETTER P) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Emoji_Symbols\╔═╗_╚═╝_box.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  ╔ = U+2554 (BOX DRAWINGS DOUBLE DOWN AND RIGHT) [So]
+  ═ = U+2550 (BOX DRAWINGS DOUBLE HORIZONTAL) [So]
+  ╗ = U+2557 (BOX DRAWINGS DOUBLE DOWN AND LEFT) [So]
+  _ = U+005F (LOW LINE) [Pc]
+  ╚ = U+255A (BOX DRAWINGS DOUBLE UP AND RIGHT) [So]
+  ═ = U+2550 (BOX DRAWINGS DOUBLE HORIZONTAL) [So]
+  ╝ = U+255D (BOX DRAWINGS DOUBLE UP AND LEFT) [So]
+  _ = U+005F (LOW LINE) [Pc]
+  b = U+0062 (LATIN SMALL LETTER B) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Emoji_Symbols\☀☁☂☃⛄_weather.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  ☀ = U+2600 (BLACK SUN WITH RAYS) [So]
+  ☁ = U+2601 (CLOUD) [So]
+  ☂ = U+2602 (UMBRELLA) [So]
+  ☃ = U+2603 (SNOWMAN) [So]
+  ⛄ = U+26C4 (SNOWMAN WITHOUT SNOW) [So]
+  _ = U+005F (LOW LINE) [Pc]
+  w = U+0077 (LATIN SMALL LETTER W) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  h = U+0068 (LATIN SMALL LETTER H) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Emoji_Symbols\♈♉♊♋♌♍_zodiac.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  ♈ = U+2648 (ARIES) [So]
+  ♉ = U+2649 (TAURUS) [So]
+  ♊ = U+264A (GEMINI) [So]
+  ♋ = U+264B (CANCER) [So]
+  ♌ = U+264C (LEO) [So]
+  ♍ = U+264D (VIRGO) [So]
+  _ = U+005F (LOW LINE) [Pc]
+  z = U+007A (LATIN SMALL LETTER Z) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  d = U+0064 (LATIN SMALL LETTER D) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  c = U+0063 (LATIN SMALL LETTER C) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Emoji_Symbols\♔♕♖♗♘♙_chess.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  ♔ = U+2654 (WHITE CHESS KING) [So]
+  ♕ = U+2655 (WHITE CHESS QUEEN) [So]
+  ♖ = U+2656 (WHITE CHESS ROOK) [So]
+  ♗ = U+2657 (WHITE CHESS BISHOP) [So]
+  ♘ = U+2658 (WHITE CHESS KNIGHT) [So]
+  ♙ = U+2659 (WHITE CHESS PAWN) [So]
+  _ = U+005F (LOW LINE) [Pc]
+  c = U+0063 (LATIN SMALL LETTER C) [Ll]
+  h = U+0068 (LATIN SMALL LETTER H) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Emoji_Symbols\♪♫♬_music.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  ♪ = U+266A (EIGHTH NOTE) [So]
+  ♫ = U+266B (BEAMED EIGHTH NOTES) [So]
+  ♬ = U+266C (BEAMED SIXTEENTH NOTES) [So]
+  _ = U+005F (LOW LINE) [Pc]
+  m = U+006D (LATIN SMALL LETTER M) [Ll]
+  u = U+0075 (LATIN SMALL LETTER U) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  c = U+0063 (LATIN SMALL LETTER C) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Emoji_Symbols\⚀⚁⚂⚃⚄⚅_dice.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  ⚀ = U+2680 (DIE FACE-1) [So]
+  ⚁ = U+2681 (DIE FACE-2) [So]
+  ⚂ = U+2682 (DIE FACE-3) [So]
+  ⚃ = U+2683 (DIE FACE-4) [So]
+  ⚄ = U+2684 (DIE FACE-5) [So]
+  ⚅ = U+2685 (DIE FACE-6) [So]
+  _ = U+005F (LOW LINE) [Pc]
+  d = U+0064 (LATIN SMALL LETTER D) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  c = U+0063 (LATIN SMALL LETTER C) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Emoji_Symbols\✓✗✔✘✿_dingbats.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  ✓ = U+2713 (CHECK MARK) [So]
+  ✗ = U+2717 (BALLOT X) [So]
+  ✔ = U+2714 (HEAVY CHECK MARK) [So]
+  ✘ = U+2718 (HEAVY BALLOT X) [So]
+  ✿ = U+273F (BLACK FLORETTE) [So]
+  _ = U+005F (LOW LINE) [Pc]
+  d = U+0064 (LATIN SMALL LETTER D) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  g = U+0067 (LATIN SMALL LETTER G) [Ll]
+  b = U+0062 (LATIN SMALL LETTER B) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Emoji_Symbols\🀀🀁🀂🀃🀄_mahjong.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  🀀 = U+1F000 (MAHJONG TILE EAST WIND) [So]
+  🀁 = U+1F001 (MAHJONG TILE SOUTH WIND) [So]
+  🀂 = U+1F002 (MAHJONG TILE WEST WIND) [So]
+  🀃 = U+1F003 (MAHJONG TILE NORTH WIND) [So]
+  🀄 = U+1F004 (MAHJONG TILE RED DRAGON) [So]
+  _ = U+005F (LOW LINE) [Pc]
+  m = U+006D (LATIN SMALL LETTER M) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  h = U+0068 (LATIN SMALL LETTER H) [Ll]
+  j = U+006A (LATIN SMALL LETTER J) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  g = U+0067 (LATIN SMALL LETTER G) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+Issues:
+  - Outside BMP: 🀀 (U+1F000)
+  - Outside BMP: 🀁 (U+1F001)
+  - Outside BMP: 🀂 (U+1F002)
+  - Outside BMP: 🀃 (U+1F003)
+  - Outside BMP: 🀄 (U+1F004)
+----------------------------------------
+
+File: Emoji_Symbols\🁡🁢🁣🁤🁥_domino.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  🁡 = U+1F061 (DOMINO TILE HORIZONTAL-06-06) [So]
+  🁢 = U+1F062 (DOMINO TILE VERTICAL BACK) [So]
+  🁣 = U+1F063 (DOMINO TILE VERTICAL-00-00) [So]
+  🁤 = U+1F064 (DOMINO TILE VERTICAL-00-01) [So]
+  🁥 = U+1F065 (DOMINO TILE VERTICAL-00-02) [So]
+  _ = U+005F (LOW LINE) [Pc]
+  d = U+0064 (LATIN SMALL LETTER D) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  m = U+006D (LATIN SMALL LETTER M) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+Issues:
+  - Outside BMP: 🁡 (U+1F061)
+  - Outside BMP: 🁢 (U+1F062)
+  - Outside BMP: 🁣 (U+1F063)
+  - Outside BMP: 🁤 (U+1F064)
+  - Outside BMP: 🁥 (U+1F065)
+----------------------------------------
+
+File: Emoji_Symbols\🂡🂢🂣🂤_cards.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  🂡 = U+1F0A1 (PLAYING CARD ACE OF SPADES) [So]
+  🂢 = U+1F0A2 (PLAYING CARD TWO OF SPADES) [So]
+  🂣 = U+1F0A3 (PLAYING CARD THREE OF SPADES) [So]
+  🂤 = U+1F0A4 (PLAYING CARD FOUR OF SPADES) [So]
+  _ = U+005F (LOW LINE) [Pc]
+  c = U+0063 (LATIN SMALL LETTER C) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  d = U+0064 (LATIN SMALL LETTER D) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+Issues:
+  - Outside BMP: 🂡 (U+1F0A1)
+  - Outside BMP: 🂢 (U+1F0A2)
+  - Outside BMP: 🂣 (U+1F0A3)
+  - Outside BMP: 🂤 (U+1F0A4)
+----------------------------------------
+
+File: Emoji_Symbols\🇺🇸_🇬🇧_🇯🇵.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  🇺 = U+1F1FA (REGIONAL INDICATOR SYMBOL LETTER U) [So]
+  🇸 = U+1F1F8 (REGIONAL INDICATOR SYMBOL LETTER S) [So]
+  _ = U+005F (LOW LINE) [Pc]
+  🇬 = U+1F1EC (REGIONAL INDICATOR SYMBOL LETTER G) [So]
+  🇧 = U+1F1E7 (REGIONAL INDICATOR SYMBOL LETTER B) [So]
+  _ = U+005F (LOW LINE) [Pc]
+  🇯 = U+1F1EF (REGIONAL INDICATOR SYMBOL LETTER J) [So]
+  🇵 = U+1F1F5 (REGIONAL INDICATOR SYMBOL LETTER P) [So]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+Issues:
+  - Outside BMP: 🇺 (U+1F1FA)
+  - Outside BMP: 🇸 (U+1F1F8)
+  - Outside BMP: 🇬 (U+1F1EC)
+  - Outside BMP: 🇧 (U+1F1E7)
+  - Outside BMP: 🇯 (U+1F1EF)
+  - Outside BMP: 🇵 (U+1F1F5)
+----------------------------------------
+
+File: Emoji_Symbols\😀_User_🎉.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  😀 = U+1F600 (GRINNING FACE) [So]
+  _ = U+005F (LOW LINE) [Pc]
+  U = U+0055 (LATIN CAPITAL LETTER U) [Lu]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  🎉 = U+1F389 (PARTY POPPER) [So]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+Issues:
+  - Outside BMP: 😀 (U+1F600)
+  - Outside BMP: 🎉 (U+1F389)
+----------------------------------------
+
+File: Greek\αβγδ_πΣΩ_math.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  α = U+03B1 (GREEK SMALL LETTER ALPHA) [Ll]
+  β = U+03B2 (GREEK SMALL LETTER BETA) [Ll]
+  γ = U+03B3 (GREEK SMALL LETTER GAMMA) [Ll]
+  δ = U+03B4 (GREEK SMALL LETTER DELTA) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  π = U+03C0 (GREEK SMALL LETTER PI) [Ll]
+  Σ = U+03A3 (GREEK CAPITAL LETTER SIGMA) [Lu]
+  Ω = U+03A9 (GREEK CAPITAL LETTER OMEGA) [Lu]
+  _ = U+005F (LOW LINE) [Pc]
+  m = U+006D (LATIN SMALL LETTER M) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  h = U+0068 (LATIN SMALL LETTER H) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Greek\Νικόλαος_Παπαδόπουλος.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  Ν = U+039D (GREEK CAPITAL LETTER NU) [Lu]
+  ι = U+03B9 (GREEK SMALL LETTER IOTA) [Ll]
+  κ = U+03BA (GREEK SMALL LETTER KAPPA) [Ll]
+  ό = U+03CC (GREEK SMALL LETTER OMICRON WITH TONOS) [Ll]
+  λ = U+03BB (GREEK SMALL LETTER LAMDA) [Ll]
+  α = U+03B1 (GREEK SMALL LETTER ALPHA) [Ll]
+  ο = U+03BF (GREEK SMALL LETTER OMICRON) [Ll]
+  ς = U+03C2 (GREEK SMALL LETTER FINAL SIGMA) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  Π = U+03A0 (GREEK CAPITAL LETTER PI) [Lu]
+  α = U+03B1 (GREEK SMALL LETTER ALPHA) [Ll]
+  π = U+03C0 (GREEK SMALL LETTER PI) [Ll]
+  α = U+03B1 (GREEK SMALL LETTER ALPHA) [Ll]
+  δ = U+03B4 (GREEK SMALL LETTER DELTA) [Ll]
+  ό = U+03CC (GREEK SMALL LETTER OMICRON WITH TONOS) [Ll]
+  π = U+03C0 (GREEK SMALL LETTER PI) [Ll]
+  ο = U+03BF (GREEK SMALL LETTER OMICRON) [Ll]
+  υ = U+03C5 (GREEK SMALL LETTER UPSILON) [Ll]
+  λ = U+03BB (GREEK SMALL LETTER LAMDA) [Ll]
+  ο = U+03BF (GREEK SMALL LETTER OMICRON) [Ll]
+  ς = U+03C2 (GREEK SMALL LETTER FINAL SIGMA) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Latin_Western_European\Arantxa_Etxeberría.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  A = U+0041 (LATIN CAPITAL LETTER A) [Lu]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  E = U+0045 (LATIN CAPITAL LETTER E) [Lu]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  b = U+0062 (LATIN SMALL LETTER B) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  í = U+00ED (LATIN SMALL LETTER I WITH ACUTE) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Latin_Western_European\François_Müller.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  F = U+0046 (LATIN CAPITAL LETTER F) [Lu]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  ç = U+00E7 (LATIN SMALL LETTER C WITH CEDILLA) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  M = U+004D (LATIN CAPITAL LETTER M) [Lu]
+  ü = U+00FC (LATIN SMALL LETTER U WITH DIAERESIS) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Latin_Western_European\Giuseppe_Rosé.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  G = U+0047 (LATIN CAPITAL LETTER G) [Lu]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  u = U+0075 (LATIN SMALL LETTER U) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  p = U+0070 (LATIN SMALL LETTER P) [Ll]
+  p = U+0070 (LATIN SMALL LETTER P) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  R = U+0052 (LATIN CAPITAL LETTER R) [Lu]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  é = U+00E9 (LATIN SMALL LETTER E WITH ACUTE) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Latin_Western_European\Jeroen_de_Vries.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  J = U+004A (LATIN CAPITAL LETTER J) [Lu]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  d = U+0064 (LATIN SMALL LETTER D) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  V = U+0056 (LATIN CAPITAL LETTER V) [Lu]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Latin_Western_European\Jordi_Puigdomènech.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  J = U+004A (LATIN CAPITAL LETTER J) [Lu]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  d = U+0064 (LATIN SMALL LETTER D) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  P = U+0050 (LATIN CAPITAL LETTER P) [Lu]
+  u = U+0075 (LATIN SMALL LETTER U) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  g = U+0067 (LATIN SMALL LETTER G) [Ll]
+  d = U+0064 (LATIN SMALL LETTER D) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  m = U+006D (LATIN SMALL LETTER M) [Ll]
+  è = U+00E8 (LATIN SMALL LETTER E WITH GRAVE) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  c = U+0063 (LATIN SMALL LETTER C) [Ll]
+  h = U+0068 (LATIN SMALL LETTER H) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Latin_Western_European\José_García.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  J = U+004A (LATIN CAPITAL LETTER J) [Lu]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  é = U+00E9 (LATIN SMALL LETTER E WITH ACUTE) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  G = U+0047 (LATIN CAPITAL LETTER G) [Lu]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  c = U+0063 (LATIN SMALL LETTER C) [Ll]
+  í = U+00ED (LATIN SMALL LETTER I WITH ACUTE) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Latin_Western_European\João_Conceição.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  J = U+004A (LATIN CAPITAL LETTER J) [Lu]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  ã = U+00E3 (LATIN SMALL LETTER A WITH TILDE) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  C = U+0043 (LATIN CAPITAL LETTER C) [Lu]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  c = U+0063 (LATIN SMALL LETTER C) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  ç = U+00E7 (LATIN SMALL LETTER C WITH CEDILLA) [Ll]
+  ã = U+00E3 (LATIN SMALL LETTER A WITH TILDE) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
 File: Latin_Western_European\O'zbek_Ismoilov.txt
-Error: mpremote: Error with transport:
-Traceback (most recent call last):
-  File "<stdin>", line 1
-SyntaxError: invalid syntax
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
 Codepoints:
   O = U+004F (LATIN CAPITAL LETTER O) [Lu]
   ' = U+0027 (APOSTROPHE) [Po]
@@ -47,34 +2616,735 @@ Codepoints:
   t = U+0074 (LATIN SMALL LETTER T) [Ll]
 ----------------------------------------
 
-File: unicode_diagnosis_results.txt
-Error: mpremote: cp: No such file or directory: No such file or directory.
+File: Latin_Western_European\Xoán_Fernández.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
 Codepoints:
-  u = U+0075 (LATIN SMALL LETTER U) [Ll]
-  n = U+006E (LATIN SMALL LETTER N) [Ll]
-  i = U+0069 (LATIN SMALL LETTER I) [Ll]
-  c = U+0063 (LATIN SMALL LETTER C) [Ll]
+  X = U+0058 (LATIN CAPITAL LETTER X) [Lu]
   o = U+006F (LATIN SMALL LETTER O) [Ll]
+  á = U+00E1 (LATIN SMALL LETTER A WITH ACUTE) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  F = U+0046 (LATIN CAPITAL LETTER F) [Lu]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  á = U+00E1 (LATIN SMALL LETTER A WITH ACUTE) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
   d = U+0064 (LATIN SMALL LETTER D) [Ll]
   e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  z = U+007A (LATIN SMALL LETTER Z) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Latin_Western_European\Ömer_Çelik.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  Ö = U+00D6 (LATIN CAPITAL LETTER O WITH DIAERESIS) [Lu]
+  m = U+006D (LATIN SMALL LETTER M) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
   _ = U+005F (LOW LINE) [Pc]
-  d = U+0064 (LATIN SMALL LETTER D) [Ll]
+  Ç = U+00C7 (LATIN CAPITAL LETTER C WITH CEDILLA) [Lu]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
   i = U+0069 (LATIN SMALL LETTER I) [Ll]
-  a = U+0061 (LATIN SMALL LETTER A) [Ll]
-  g = U+0067 (LATIN SMALL LETTER G) [Ll]
+  k = U+006B (LATIN SMALL LETTER K) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Latin_Western_European\Đặng_Nguyễn.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  Đ = U+0110 (LATIN CAPITAL LETTER D WITH STROKE) [Lu]
+  ặ = U+1EB7 (LATIN SMALL LETTER A WITH BREVE AND DOT BELOW) [Ll]
   n = U+006E (LATIN SMALL LETTER N) [Ll]
-  o = U+006F (LATIN SMALL LETTER O) [Ll]
-  s = U+0073 (LATIN SMALL LETTER S) [Ll]
-  i = U+0069 (LATIN SMALL LETTER I) [Ll]
-  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  g = U+0067 (LATIN SMALL LETTER G) [Ll]
   _ = U+005F (LOW LINE) [Pc]
+  N = U+004E (LATIN CAPITAL LETTER N) [Lu]
+  g = U+0067 (LATIN SMALL LETTER G) [Ll]
+  u = U+0075 (LATIN SMALL LETTER U) [Ll]
+  y = U+0079 (LATIN SMALL LETTER Y) [Ll]
+  ễ = U+1EC5 (LATIN SMALL LETTER E WITH CIRCUMFLEX AND TILDE) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Nordic_Icelandic\Jüri_Mägi.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  J = U+004A (LATIN CAPITAL LETTER J) [Lu]
+  ü = U+00FC (LATIN SMALL LETTER U WITH DIAERESIS) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  M = U+004D (LATIN CAPITAL LETTER M) [Lu]
+  ä = U+00E4 (LATIN SMALL LETTER A WITH DIAERESIS) [Ll]
+  g = U+0067 (LATIN SMALL LETTER G) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Nordic_Icelandic\Päivi_Mäkinen.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  P = U+0050 (LATIN CAPITAL LETTER P) [Lu]
+  ä = U+00E4 (LATIN SMALL LETTER A WITH DIAERESIS) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  v = U+0076 (LATIN SMALL LETTER V) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  M = U+004D (LATIN CAPITAL LETTER M) [Lu]
+  ä = U+00E4 (LATIN SMALL LETTER A WITH DIAERESIS) [Ll]
+  k = U+006B (LATIN SMALL LETTER K) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Nordic_Icelandic\Søren_Ødegård.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  S = U+0053 (LATIN CAPITAL LETTER S) [Lu]
+  ø = U+00F8 (LATIN SMALL LETTER O WITH STROKE) [Ll]
   r = U+0072 (LATIN SMALL LETTER R) [Ll]
   e = U+0065 (LATIN SMALL LETTER E) [Ll]
-  s = U+0073 (LATIN SMALL LETTER S) [Ll]
-  u = U+0075 (LATIN SMALL LETTER U) [Ll]
-  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  Ø = U+00D8 (LATIN CAPITAL LETTER O WITH STROKE) [Lu]
+  d = U+0064 (LATIN SMALL LETTER D) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  g = U+0067 (LATIN SMALL LETTER G) [Ll]
+  å = U+00E5 (LATIN SMALL LETTER A WITH RING ABOVE) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  d = U+0064 (LATIN SMALL LETTER D) [Ll]
+  . = U+002E (FULL STOP) [Po]
   t = U+0074 (LATIN SMALL LETTER T) [Ll]
-  s = U+0073 (LATIN SMALL LETTER S) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Nordic_Icelandic\Þórður_Björk.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  Þ = U+00DE (LATIN CAPITAL LETTER THORN) [Lu]
+  ó = U+00F3 (LATIN SMALL LETTER O WITH ACUTE) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  ð = U+00F0 (LATIN SMALL LETTER ETH) [Ll]
+  u = U+0075 (LATIN SMALL LETTER U) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  B = U+0042 (LATIN CAPITAL LETTER B) [Lu]
+  j = U+006A (LATIN SMALL LETTER J) [Ll]
+  ö = U+00F6 (LATIN SMALL LETTER O WITH DIAERESIS) [Ll]
+  r = U+0072 (LATIN SMALL LETTER R) [Ll]
+  k = U+006B (LATIN SMALL LETTER K) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Pacific_Polynesian\Keanu_Kahanamoku.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  K = U+004B (LATIN CAPITAL LETTER K) [Lu]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  u = U+0075 (LATIN SMALL LETTER U) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  K = U+004B (LATIN CAPITAL LETTER K) [Lu]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  h = U+0068 (LATIN SMALL LETTER H) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  m = U+006D (LATIN SMALL LETTER M) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  k = U+006B (LATIN SMALL LETTER K) [Ll]
+  u = U+0075 (LATIN SMALL LETTER U) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Pacific_Polynesian\Tui_Manuʻa.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  T = U+0054 (LATIN CAPITAL LETTER T) [Lu]
+  u = U+0075 (LATIN SMALL LETTER U) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  M = U+004D (LATIN CAPITAL LETTER M) [Lu]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  u = U+0075 (LATIN SMALL LETTER U) [Ll]
+  ʻ = U+02BB (MODIFIER LETTER TURNED COMMA) [Lm]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: Pacific_Polynesian\Tāne_Māhuta.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  T = U+0054 (LATIN CAPITAL LETTER T) [Lu]
+  ā = U+0101 (LATIN SMALL LETTER A WITH MACRON) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  e = U+0065 (LATIN SMALL LETTER E) [Ll]
+  _ = U+005F (LOW LINE) [Pc]
+  M = U+004D (LATIN CAPITAL LETTER M) [Lu]
+  ā = U+0101 (LATIN SMALL LETTER A WITH MACRON) [Ll]
+  h = U+0068 (LATIN SMALL LETTER H) [Ll]
+  u = U+0075 (LATIN SMALL LETTER U) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+----------------------------------------
+
+File: South_Asian_Indic\नेपाली_नाम.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  न = U+0928 (DEVANAGARI LETTER NA) [Lo]
+  े = U+0947 (DEVANAGARI VOWEL SIGN E) [Mn]
+  प = U+092A (DEVANAGARI LETTER PA) [Lo]
+  ा = U+093E (DEVANAGARI VOWEL SIGN AA) [Mc]
+  ल = U+0932 (DEVANAGARI LETTER LA) [Lo]
+  ी = U+0940 (DEVANAGARI VOWEL SIGN II) [Mc]
+  _ = U+005F (LOW LINE) [Pc]
+  न = U+0928 (DEVANAGARI LETTER NA) [Lo]
+  ा = U+093E (DEVANAGARI VOWEL SIGN AA) [Mc]
+  म = U+092E (DEVANAGARI LETTER MA) [Lo]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+Issues:
+  - Combining mark: े (U+0947)
+  - Combining mark: ा (U+093E)
+  - Combining mark: ी (U+0940)
+  - Combining mark: ा (U+093E)
+----------------------------------------
+
+File: South_Asian_Indic\राहुल_शर्मा.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  र = U+0930 (DEVANAGARI LETTER RA) [Lo]
+  ा = U+093E (DEVANAGARI VOWEL SIGN AA) [Mc]
+  ह = U+0939 (DEVANAGARI LETTER HA) [Lo]
+  ु = U+0941 (DEVANAGARI VOWEL SIGN U) [Mn]
+  ल = U+0932 (DEVANAGARI LETTER LA) [Lo]
+  _ = U+005F (LOW LINE) [Pc]
+  श = U+0936 (DEVANAGARI LETTER SHA) [Lo]
+  र = U+0930 (DEVANAGARI LETTER RA) [Lo]
+  ् = U+094D (DEVANAGARI SIGN VIRAMA) [Mn]
+  म = U+092E (DEVANAGARI LETTER MA) [Lo]
+  ा = U+093E (DEVANAGARI VOWEL SIGN AA) [Mc]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+Issues:
+  - Combining mark: ा (U+093E)
+  - Combining mark: ु (U+0941)
+  - Combining mark: ् (U+094D)
+  - Combining mark: ा (U+093E)
+----------------------------------------
+
+File: South_Asian_Indic\ওডিশা_ପ୍ରିୟ.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  ও = U+0993 (BENGALI LETTER O) [Lo]
+  ড = U+09A1 (BENGALI LETTER DDA) [Lo]
+  ি = U+09BF (BENGALI VOWEL SIGN I) [Mc]
+  শ = U+09B6 (BENGALI LETTER SHA) [Lo]
+  া = U+09BE (BENGALI VOWEL SIGN AA) [Mc]
+  _ = U+005F (LOW LINE) [Pc]
+  ପ = U+0B2A (ORIYA LETTER PA) [Lo]
+  ୍ = U+0B4D (ORIYA SIGN VIRAMA) [Mn]
+  ର = U+0B30 (ORIYA LETTER RA) [Lo]
+  ି = U+0B3F (ORIYA VOWEL SIGN I) [Mn]
+  ୟ = U+0B5F (ORIYA LETTER YYA) [Lo]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+Issues:
+  - Combining mark: ি (U+09BF)
+  - Combining mark: া (U+09BE)
+  - Combining mark: ୍ (U+0B4D)
+  - Combining mark: ି (U+0B3F)
+----------------------------------------
+
+File: South_Asian_Indic\রাহুল_বন্দ্যোপাধ্যায়.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  র = U+09B0 (BENGALI LETTER RA) [Lo]
+  া = U+09BE (BENGALI VOWEL SIGN AA) [Mc]
+  হ = U+09B9 (BENGALI LETTER HA) [Lo]
+  ু = U+09C1 (BENGALI VOWEL SIGN U) [Mn]
+  ল = U+09B2 (BENGALI LETTER LA) [Lo]
+  _ = U+005F (LOW LINE) [Pc]
+  ব = U+09AC (BENGALI LETTER BA) [Lo]
+  ন = U+09A8 (BENGALI LETTER NA) [Lo]
+  ্ = U+09CD (BENGALI SIGN VIRAMA) [Mn]
+  দ = U+09A6 (BENGALI LETTER DA) [Lo]
+  ্ = U+09CD (BENGALI SIGN VIRAMA) [Mn]
+  য = U+09AF (BENGALI LETTER YA) [Lo]
+  ো = U+09CB (BENGALI VOWEL SIGN O) [Mc]
+  প = U+09AA (BENGALI LETTER PA) [Lo]
+  া = U+09BE (BENGALI VOWEL SIGN AA) [Mc]
+  ধ = U+09A7 (BENGALI LETTER DHA) [Lo]
+  ্ = U+09CD (BENGALI SIGN VIRAMA) [Mn]
+  য = U+09AF (BENGALI LETTER YA) [Lo]
+  া = U+09BE (BENGALI VOWEL SIGN AA) [Mc]
+  য = U+09AF (BENGALI LETTER YA) [Lo]
+  ় = U+09BC (BENGALI SIGN NUKTA) [Mn]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+Issues:
+  - Combining mark: া (U+09BE)
+  - Combining mark: ু (U+09C1)
+  - Combining mark: ্ (U+09CD)
+  - Combining mark: ্ (U+09CD)
+  - Combining mark: ো (U+09CB)
+  - Combining mark: া (U+09BE)
+  - Combining mark: ্ (U+09CD)
+  - Combining mark: া (U+09BE)
+  - Combining mark: ় (U+09BC)
+----------------------------------------
+
+File: South_Asian_Indic\ਗੁਰਪ੍ਰੀਤ_ਸਿੰਘ.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  ਗ = U+0A17 (GURMUKHI LETTER GA) [Lo]
+  ੁ = U+0A41 (GURMUKHI VOWEL SIGN U) [Mn]
+  ਰ = U+0A30 (GURMUKHI LETTER RA) [Lo]
+  ਪ = U+0A2A (GURMUKHI LETTER PA) [Lo]
+  ੍ = U+0A4D (GURMUKHI SIGN VIRAMA) [Mn]
+  ਰ = U+0A30 (GURMUKHI LETTER RA) [Lo]
+  ੀ = U+0A40 (GURMUKHI VOWEL SIGN II) [Mc]
+  ਤ = U+0A24 (GURMUKHI LETTER TA) [Lo]
+  _ = U+005F (LOW LINE) [Pc]
+  ਸ = U+0A38 (GURMUKHI LETTER SA) [Lo]
+  ਿ = U+0A3F (GURMUKHI VOWEL SIGN I) [Mc]
+  ੰ = U+0A70 (GURMUKHI TIPPI) [Mn]
+  ਘ = U+0A18 (GURMUKHI LETTER GHA) [Lo]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+Issues:
+  - Combining mark: ੁ (U+0A41)
+  - Combining mark: ੍ (U+0A4D)
+  - Combining mark: ੀ (U+0A40)
+  - Combining mark: ਿ (U+0A3F)
+  - Combining mark: ੰ (U+0A70)
+----------------------------------------
+
+File: South_Asian_Indic\ગુજરાતી_પટેલ.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  ગ = U+0A97 (GUJARATI LETTER GA) [Lo]
+  ુ = U+0AC1 (GUJARATI VOWEL SIGN U) [Mn]
+  જ = U+0A9C (GUJARATI LETTER JA) [Lo]
+  ર = U+0AB0 (GUJARATI LETTER RA) [Lo]
+  ા = U+0ABE (GUJARATI VOWEL SIGN AA) [Mc]
+  ત = U+0AA4 (GUJARATI LETTER TA) [Lo]
+  ી = U+0AC0 (GUJARATI VOWEL SIGN II) [Mc]
+  _ = U+005F (LOW LINE) [Pc]
+  પ = U+0AAA (GUJARATI LETTER PA) [Lo]
+  ટ = U+0A9F (GUJARATI LETTER TTA) [Lo]
+  ે = U+0AC7 (GUJARATI VOWEL SIGN E) [Mn]
+  લ = U+0AB2 (GUJARATI LETTER LA) [Lo]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+Issues:
+  - Combining mark: ુ (U+0AC1)
+  - Combining mark: ા (U+0ABE)
+  - Combining mark: ી (U+0AC0)
+  - Combining mark: ે (U+0AC7)
+----------------------------------------
+
+File: South_Asian_Indic\தமிழ்_செல்வன்.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  த = U+0BA4 (TAMIL LETTER TA) [Lo]
+  ம = U+0BAE (TAMIL LETTER MA) [Lo]
+  ி = U+0BBF (TAMIL VOWEL SIGN I) [Mc]
+  ழ = U+0BB4 (TAMIL LETTER LLLA) [Lo]
+  ் = U+0BCD (TAMIL SIGN VIRAMA) [Mn]
+  _ = U+005F (LOW LINE) [Pc]
+  ச = U+0B9A (TAMIL LETTER CA) [Lo]
+  ெ = U+0BC6 (TAMIL VOWEL SIGN E) [Mc]
+  ல = U+0BB2 (TAMIL LETTER LA) [Lo]
+  ் = U+0BCD (TAMIL SIGN VIRAMA) [Mn]
+  வ = U+0BB5 (TAMIL LETTER VA) [Lo]
+  ன = U+0BA9 (TAMIL LETTER NNNA) [Lo]
+  ் = U+0BCD (TAMIL SIGN VIRAMA) [Mn]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+Issues:
+  - Combining mark: ி (U+0BBF)
+  - Combining mark: ் (U+0BCD)
+  - Combining mark: ெ (U+0BC6)
+  - Combining mark: ் (U+0BCD)
+  - Combining mark: ் (U+0BCD)
+----------------------------------------
+
+File: South_Asian_Indic\శ్రీనివాస్_రెడ్డి.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  శ = U+0C36 (TELUGU LETTER SHA) [Lo]
+  ్ = U+0C4D (TELUGU SIGN VIRAMA) [Mn]
+  ర = U+0C30 (TELUGU LETTER RA) [Lo]
+  ీ = U+0C40 (TELUGU VOWEL SIGN II) [Mn]
+  న = U+0C28 (TELUGU LETTER NA) [Lo]
+  ి = U+0C3F (TELUGU VOWEL SIGN I) [Mn]
+  వ = U+0C35 (TELUGU LETTER VA) [Lo]
+  ా = U+0C3E (TELUGU VOWEL SIGN AA) [Mn]
+  స = U+0C38 (TELUGU LETTER SA) [Lo]
+  ్ = U+0C4D (TELUGU SIGN VIRAMA) [Mn]
+  _ = U+005F (LOW LINE) [Pc]
+  ర = U+0C30 (TELUGU LETTER RA) [Lo]
+  ె = U+0C46 (TELUGU VOWEL SIGN E) [Mn]
+  డ = U+0C21 (TELUGU LETTER DDA) [Lo]
+  ్ = U+0C4D (TELUGU SIGN VIRAMA) [Mn]
+  డ = U+0C21 (TELUGU LETTER DDA) [Lo]
+  ి = U+0C3F (TELUGU VOWEL SIGN I) [Mn]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+Issues:
+  - Combining mark: ్ (U+0C4D)
+  - Combining mark: ీ (U+0C40)
+  - Combining mark: ి (U+0C3F)
+  - Combining mark: ా (U+0C3E)
+  - Combining mark: ్ (U+0C4D)
+  - Combining mark: ె (U+0C46)
+  - Combining mark: ్ (U+0C4D)
+  - Combining mark: ి (U+0C3F)
+----------------------------------------
+
+File: South_Asian_Indic\ಕನ್ನಡ_ರಾಜ್.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  ಕ = U+0C95 (KANNADA LETTER KA) [Lo]
+  ನ = U+0CA8 (KANNADA LETTER NA) [Lo]
+  ್ = U+0CCD (KANNADA SIGN VIRAMA) [Mn]
+  ನ = U+0CA8 (KANNADA LETTER NA) [Lo]
+  ಡ = U+0CA1 (KANNADA LETTER DDA) [Lo]
+  _ = U+005F (LOW LINE) [Pc]
+  ರ = U+0CB0 (KANNADA LETTER RA) [Lo]
+  ಾ = U+0CBE (KANNADA VOWEL SIGN AA) [Mc]
+  ಜ = U+0C9C (KANNADA LETTER JA) [Lo]
+  ್ = U+0CCD (KANNADA SIGN VIRAMA) [Mn]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+Issues:
+  - Combining mark: ್ (U+0CCD)
+  - Combining mark: ಾ (U+0CBE)
+  - Combining mark: ್ (U+0CCD)
+----------------------------------------
+
+File: South_Asian_Indic\മലയാളം_കൃഷ്ണൻ.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  മ = U+0D2E (MALAYALAM LETTER MA) [Lo]
+  ല = U+0D32 (MALAYALAM LETTER LA) [Lo]
+  യ = U+0D2F (MALAYALAM LETTER YA) [Lo]
+  ാ = U+0D3E (MALAYALAM VOWEL SIGN AA) [Mc]
+  ള = U+0D33 (MALAYALAM LETTER LLA) [Lo]
+  ം = U+0D02 (MALAYALAM SIGN ANUSVARA) [Mc]
+  _ = U+005F (LOW LINE) [Pc]
+  ക = U+0D15 (MALAYALAM LETTER KA) [Lo]
+  ൃ = U+0D43 (MALAYALAM VOWEL SIGN VOCALIC R) [Mn]
+  ഷ = U+0D37 (MALAYALAM LETTER SSA) [Lo]
+  ് = U+0D4D (MALAYALAM SIGN VIRAMA) [Mn]
+  ണ = U+0D23 (MALAYALAM LETTER NNA) [Lo]
+  ൻ = U+0D7B (MALAYALAM LETTER CHILLU N) [Lo]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+Issues:
+  - Combining mark: ാ (U+0D3E)
+  - Combining mark: ം (U+0D02)
+  - Combining mark: ൃ (U+0D43)
+  - Combining mark: ് (U+0D4D)
+----------------------------------------
+
+File: South_Asian_Indic\සිංහල_නාමය.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  ස = U+0DC3 (SINHALA LETTER DANTAJA SAYANNA) [Lo]
+  ි = U+0DD2 (SINHALA VOWEL SIGN KETTI IS-PILLA) [Mn]
+  ං = U+0D82 (SINHALA SIGN ANUSVARAYA) [Mc]
+  හ = U+0DC4 (SINHALA LETTER HAYANNA) [Lo]
+  ල = U+0DBD (SINHALA LETTER DANTAJA LAYANNA) [Lo]
+  _ = U+005F (LOW LINE) [Pc]
+  න = U+0DB1 (SINHALA LETTER DANTAJA NAYANNA) [Lo]
+  ා = U+0DCF (SINHALA VOWEL SIGN AELA-PILLA) [Mc]
+  ම = U+0DB8 (SINHALA LETTER MAYANNA) [Lo]
+  ය = U+0DBA (SINHALA LETTER YAYANNA) [Lo]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+Issues:
+  - Combining mark: ි (U+0DD2)
+  - Combining mark: ං (U+0D82)
+  - Combining mark: ා (U+0DCF)
+----------------------------------------
+
+File: South_Asian_Indic\བོད་སྐད་_ཤེས.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  བ = U+0F56 (TIBETAN LETTER BA) [Lo]
+  ོ = U+0F7C (TIBETAN VOWEL SIGN O) [Mn]
+  ད = U+0F51 (TIBETAN LETTER DA) [Lo]
+  ་ = U+0F0B (TIBETAN MARK INTERSYLLABIC TSHEG) [Po]
+  ས = U+0F66 (TIBETAN LETTER SA) [Lo]
+  ྐ = U+0F90 (TIBETAN SUBJOINED LETTER KA) [Mn]
+  ད = U+0F51 (TIBETAN LETTER DA) [Lo]
+  ་ = U+0F0B (TIBETAN MARK INTERSYLLABIC TSHEG) [Po]
+  _ = U+005F (LOW LINE) [Pc]
+  ཤ = U+0F64 (TIBETAN LETTER SHA) [Lo]
+  ེ = U+0F7A (TIBETAN VOWEL SIGN E) [Mn]
+  ས = U+0F66 (TIBETAN LETTER SA) [Lo]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+Issues:
+  - Combining mark: ོ (U+0F7C)
+  - Combining mark: ྐ (U+0F90)
+  - Combining mark: ེ (U+0F7A)
+----------------------------------------
+
+File: Southeast_Asian\สมชาย_ใจดี.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  ส = U+0E2A (THAI CHARACTER SO SUA) [Lo]
+  ม = U+0E21 (THAI CHARACTER MO MA) [Lo]
+  ช = U+0E0A (THAI CHARACTER CHO CHANG) [Lo]
+  า = U+0E32 (THAI CHARACTER SARA AA) [Lo]
+  ย = U+0E22 (THAI CHARACTER YO YAK) [Lo]
+  _ = U+005F (LOW LINE) [Pc]
+  ใ = U+0E43 (THAI CHARACTER SARA AI MAIMUAN) [Lo]
+  จ = U+0E08 (THAI CHARACTER CHO CHAN) [Lo]
+  ด = U+0E14 (THAI CHARACTER DO DEK) [Lo]
+  ี = U+0E35 (THAI CHARACTER SARA II) [Mn]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+Issues:
+  - Combining mark: ี (U+0E35)
+----------------------------------------
+
+File: Southeast_Asian\ລາວ_ຊື່.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  ລ = U+0EA5 (LAO LETTER LO LOOT) [Lo]
+  າ = U+0EB2 (LAO VOWEL SIGN AA) [Lo]
+  ວ = U+0EA7 (LAO LETTER WO) [Lo]
+  _ = U+005F (LOW LINE) [Pc]
+  ຊ = U+0E8A (LAO LETTER SO TAM) [Lo]
+  ື = U+0EB7 (LAO VOWEL SIGN YY) [Mn]
+  ່ = U+0EC8 (LAO TONE MAI EK) [Mn]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+Issues:
+  - Combining mark: ື (U+0EB7)
+  - Combining mark: ່ (U+0EC8)
+----------------------------------------
+
+File: Southeast_Asian\မောင်_ခင်.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  မ = U+1019 (MYANMAR LETTER MA) [Lo]
+  ေ = U+1031 (MYANMAR VOWEL SIGN E) [Mc]
+  ာ = U+102C (MYANMAR VOWEL SIGN AA) [Mc]
+  င = U+1004 (MYANMAR LETTER NGA) [Lo]
+  ် = U+103A (MYANMAR SIGN ASAT) [Mn]
+  _ = U+005F (LOW LINE) [Pc]
+  ခ = U+1001 (MYANMAR LETTER KHA) [Lo]
+  င = U+1004 (MYANMAR LETTER NGA) [Lo]
+  ် = U+103A (MYANMAR SIGN ASAT) [Mn]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+Issues:
+  - Combining mark: ေ (U+1031)
+  - Combining mark: ာ (U+102C)
+  - Combining mark: ် (U+103A)
+  - Combining mark: ် (U+103A)
+----------------------------------------
+
+File: Southeast_Asian\ភាសាខ្មែរ_នាម.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  ភ = U+1797 (KHMER LETTER PHO) [Lo]
+  ា = U+17B6 (KHMER VOWEL SIGN AA) [Mc]
+  ស = U+179F (KHMER LETTER SA) [Lo]
+  ា = U+17B6 (KHMER VOWEL SIGN AA) [Mc]
+  ខ = U+1781 (KHMER LETTER KHA) [Lo]
+  ្ = U+17D2 (KHMER SIGN COENG) [Mn]
+  ម = U+1798 (KHMER LETTER MO) [Lo]
+  ែ = U+17C2 (KHMER VOWEL SIGN AE) [Mc]
+  រ = U+179A (KHMER LETTER RO) [Lo]
+  _ = U+005F (LOW LINE) [Pc]
+  ន = U+1793 (KHMER LETTER NO) [Lo]
+  ា = U+17B6 (KHMER VOWEL SIGN AA) [Mc]
+  ម = U+1798 (KHMER LETTER MO) [Lo]
+  . = U+002E (FULL STOP) [Po]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+  x = U+0078 (LATIN SMALL LETTER X) [Ll]
+  t = U+0074 (LATIN SMALL LETTER T) [Ll]
+Issues:
+  - Combining mark: ា (U+17B6)
+  - Combining mark: ា (U+17B6)
+  - Combining mark: ្ (U+17D2)
+  - Combining mark: ែ (U+17C2)
+  - Combining mark: ា (U+17B6)
+----------------------------------------
+
+File: Southeast_Asian\ᠮᠣᠩᠭᠣᠯ_mongolian.txt
+Error: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\mypython\micropython\.venv\Scripts\mpremote.exe\_
+Codepoints:
+  ᠮ = U+182E (MONGOLIAN LETTER MA) [Lo]
+  ᠣ = U+1823 (MONGOLIAN LETTER O) [Lo]
+  ᠩ = U+1829 (MONGOLIAN LETTER ANG) [Lo]
+  ᠭ = U+182D (MONGOLIAN LETTER GA) [Lo]
+  ᠣ = U+1823 (MONGOLIAN LETTER O) [Lo]
+  ᠯ = U+182F (MONGOLIAN LETTER LA) [Lo]
+  _ = U+005F (LOW LINE) [Pc]
+  m = U+006D (LATIN SMALL LETTER M) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
+  g = U+0067 (LATIN SMALL LETTER G) [Ll]
+  o = U+006F (LATIN SMALL LETTER O) [Ll]
+  l = U+006C (LATIN SMALL LETTER L) [Ll]
+  i = U+0069 (LATIN SMALL LETTER I) [Ll]
+  a = U+0061 (LATIN SMALL LETTER A) [Ll]
+  n = U+006E (LATIN SMALL LETTER N) [Ll]
   . = U+002E (FULL STOP) [Po]
   t = U+0074 (LATIN SMALL LETTER T) [Ll]
   x = U+0078 (LATIN SMALL LETTER X) [Ll]

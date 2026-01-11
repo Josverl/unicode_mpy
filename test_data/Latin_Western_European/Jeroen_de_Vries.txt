@@ -4,6 +4,7 @@ This file tests Dutch characters.
 
 ## Script: Latin Extended (Dutch)
 Characters: IJ ij (special ligature), ë (trema)
+- Het reïntegreren van de Ĳsselmeer-visserĳ is belangrijk.
 
 ## Sample Words:
 - Nederland (Netherlands)
