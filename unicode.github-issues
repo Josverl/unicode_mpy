@@ -7,17 +7,17 @@
   {
     "kind": 2,
     "language": "github-issues",
-    "value": "$mp assignee:@me label:unicode"
+    "value": "$mp type:issue label:unicode -label:tools\r\n\r\n\r\n"
   },
   {
     "kind": 2,
     "language": "github-issues",
-    "value": "$mp type:issue utf-8 decode\r\n$mp type:issue mpremote raw\r\n\r\n$mp type:issue unicode mpremote\r\n$mp type:issue unicode\r\n$lib type:issue unicode"
+    "value": "// $lib type:issue label:unicode \n$lib type:issue utf-8 "
   },
   {
     "kind": 2,
     "language": "github-issues",
-    "value": "\r\n\r\n$mp type:issue mpremote transporterror\r\n$mp type:issue mpremote: Error with transport"
+    "value": "\r\n\r\n// $mp type:issue mpremote transporterror\r\n// $mp type:issue mpremote: Error with transport"
   },
   {
     "kind": 2,

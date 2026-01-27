@@ -41,7 +41,8 @@ Examples:
 """,
     )
     parser.add_argument(
-        "-t", "--target",
+        "-t",
+        "--target",
         default="auto",
         help="Target device connection (default: auto). Examples: COM27, /dev/ttyUSB0, socket://localhost:2218",
     )
@@ -88,7 +89,7 @@ def run_mpremote(*args) -> tuple[int, str, str]:
 
 def run_mpremote_interactive(*args) -> tuple[int, str]:
     """Run mpremote with real console output (not piped).
-    
+
     Returns (returncode, error_type) where error_type is:
     - "" for success
     - "TIMEOUT" if command hangs
@@ -135,12 +136,14 @@ def analyze_filename(filename: str) -> dict:
             name = f"U+{cp:04X}"
             category = "??"
 
-        info["codepoints"].append({
-            "char": char,
-            "codepoint": f"U+{cp:04X}",
-            "name": name,
-            "category": category,
-        })
+        info["codepoints"].append(
+            {
+                "char": char,
+                "codepoint": f"U+{cp:04X}",
+                "name": name,
+                "category": category,
+            }
+        )
         info["categories"].add(category)
 
         # Flag potential issues
@@ -162,7 +165,7 @@ def collect_test_files() -> tuple[list[Path], set[str]]:
     """Collect all test files and subdirectories."""
     all_files = []
     subdirs = set()
-    
+
     for root, dirs, files in os.walk(TEST_DIR):
         dirs[:] = [d for d in dirs if not d.startswith(".")]
         for d in dirs:
@@ -173,7 +176,7 @@ def collect_test_files() -> tuple[list[Path], set[str]]:
                 continue
             filepath = Path(root) / f
             all_files.append(filepath)
-    
+
     return all_files, subdirs
 
 
@@ -340,7 +343,7 @@ def print_copy_summary(passed: list[Path], failed: list[tuple[Path, str]]):
 
         for filepath, error in failed:
             analysis = analyze_filename(filepath.name)
-            
+
             # Categorize
             categorized = False
             for issue in analysis["potential_issues"]:
@@ -403,14 +406,14 @@ def print_copy_summary(passed: list[Path], failed: list[tuple[Path, str]]):
 
 def main():
     args = parse_args()
-    
+
     global CONN, INTERACTIVE_TIMEOUT
     CONN = args.target
     INTERACTIVE_TIMEOUT = args.timeout
 
     # Collect test files
     all_files, subdirs = collect_test_files()
-    
+
     if not all_files:
         print(f"No test files found in {TEST_DIR}")
         sys.exit(1)
@@ -424,7 +427,7 @@ def main():
         print("=" * 70)
         print("This mode detects console output issues that don't appear when")
         print("output is piped. A TIMEOUT indicates the console hung.\n")
-        
+
         if not args.skip_copy:
             setup_remote_dirs(subdirs)
             passed, _ = test_copy_files(all_files)

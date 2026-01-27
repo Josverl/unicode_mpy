@@ -1,0 +1,66 @@
+# Complete Commit-by-Commit Memory Impact Summary
+
+Base: b4aeb97a0d (master_jv) - text=787,820 bytes
+
+## Commits Affecting Code (14 total)
+
+Commit      | # | Description                                    | Files           | Est. Δtext | Category
+------------|---|------------------------------------------------|-----------------|------------|------------------
+2a33aa4af2  | 27| bytes.decode() error handlers (ignore/replace) | py/objstr.c     | +400-600   | bytes.decode
+04b41b75ea  | 26| Fix UTF-8 error handling                       | py/objstr.c     | +50-100    | bytes.decode
+256263603c  | 25| Error handler validation                       | py/objstr.c     | +100-150   | bytes.decode
+9fd1e03733  | 24| Optional replace mode (config)                 | py/mpconfig.h   | -100 to -50| bytes.decode
+0d3425a7e4  | 23| NotImplementedError for disabled replace       | py/objstr.c     | +30-50     | bytes.decode
+366680a46d  | 22| ROM level config                               | py/mpconfig.h   | 0          | config
+ddb43ad45d  | 20| Rename config macros                           | py/mpconfig.h   | 0          | config
+562485ca04  | 11| Validate encoding parameter                    | py/objstr.c     | +80-120    | string ops
+387a42eb1e  | 9 | UTF-8 in string formatting                     | py/objstr.c     | +100-150   | string ops
+ef7a8e41f9  | 7 | Improve decompression check                    | py/objexcept.c  | +20-40     | exception
+a18c071b3d  | 5 | Unicode in str.center()                        | py/objstr.c     | +80-120    | string ops
+b2a5091206  | 2 | UTF-8 input buffering (part-1)                 | readline.c      | +256       | UTF-8 REPL (measured)
+461a24dc50  | 1 | UTF-8 cursor movement                          | readline.c      | +240       | UTF-8 REPL (measured)
+
+## Commits Affecting Tests/Docs Only (14 total, zero runtime impact)
+
+Commit      | # | Description
+------------|---|--------------------------------------------------
+17a34273c3  | 28| Initial plan (docs)
+ae3709fc51  | 21| Update test expectations
+45a33be60e  | 19| Add IMPLEMENTATION_COMPARISON.md
+fa4b829bcb  | 18| Fix test for CPYTHON_COMPAT
+d5a59e5c5b  | 17| Remove temporary test file
+ecd480fe98  | 16| Add test coverage report
+f2848d4672  | 15| Fix test detection
+e7085948e1  | 14| Remove temporary test files
+36a87b617b  | 13| PR review: refactor test
+3f09b40c38  | 12| Revert to print-based test
+e732a456f7  | 10| Add encoding validation tests
+f32982d8e0  | 8 | Add unicode formatting tests
+7b12dacf60  | 6 | Tests for 0xff strings
+c2b0075863  | 4 | Add str.center() tests
+f81a8615ce  | 3 | Add interactive REPL tests
+
+## Summary by Category
+
+Category            | Commits | Measured    | Estimated   | Total Est.
+--------------------|---------|-------------|-------------|------------
+UTF-8 REPL          | 2       | +496 bytes  | —           | +496 bytes
+bytes.decode()      | 6       | —           | +560-900    | +560-900
+String/Unicode      | 3       | —           | +200-310    | +200-310
+Config/Exception    | 3       | —           | +20-40      | +20-40
+Tests/Docs          | 14      | 0           | 0           | 0
+
+**Total Range:** 1,276 - 1,746 bytes (0.16% - 0.22% of base 787KB)
+**Confirmed:**   496 bytes (UTF-8 REPL measured)
+**Estimated:**   780 - 1,250 bytes (other features)
+
+## Final Binary (461a24dc50)
+
+text=788,316 (+496 from base, measured)
+data=4,268 (unchanged)
+bss=1,632 (unchanged)
+total=794,216 (+496 bytes, +0.063%)
+
+Note: The total measured increase (496 bytes) only includes UTF-8 REPL changes.
+The estimated total (1,276-1,746 bytes) includes all py/objstr.c enhancements
+which were not individually measured due to build time constraints.

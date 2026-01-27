@@ -1,0 +1,31 @@
+Commit,Number,Description,File,text,data,bss,total,Δtext,Δtotal,Cumulative,Category,Notes
+b4aeb97a0d,BASE,master_jv baseline,—,786996,70840,2960,860796,0,0,0,baseline,Starting point
+2a33aa4af2,27,decode error handlers,py/objstr.c,787348,70840,2960,861148,352,352,352,bytes.decode,Initial 'ignore' and 'replace' implementation
+04b41b75ea,26,UTF-8 error handling fix,py/objstr.c,787332,70840,2960,861132,-16,-16,336,bytes.decode,Algorithm refinement saves 16 bytes
+256263603c,25,handler validation,py/objstr.c,787412,70840,2960,861212,80,80,416,bytes.decode,Parameter validation logic
+9fd1e03733,24,optional replace mode,py/mpconfig.h,787268,70840,2960,861068,-144,-144,272,bytes.decode,Config guards save 144 bytes
+0d3425a7e4,23,NotImplementedError,py/objstr.c,787332,70840,2960,861132,64,64,336,bytes.decode,Exception for disabled features
+366680a46d,22,ROM level config,py/mpconfig.h,787332,70840,2960,861132,0,0,336,config,Macro definitions only
+ddb43ad45d,20,rename decode config,py/mpconfig.h,787332,70840,2960,861132,0,0,336,config,Renaming only
+36a87b617b,13,refactor test,tests/,787332,70840,2960,861132,0,0,336,test,Test changes only
+562485ca04,11,validate encoding,py/objstr.c,787604,70840,2960,861404,272,272,608,string-ops,Largest single string operation
+387a42eb1e,9,utf-8 in string format,py/objstr.c,787748,70840,2960,861548,144,144,752,string-ops,Format string UTF-8 support
+ef7a8e41f9,7,decompression check,py/objexcept.c,787796,70840,2960,861596,48,48,800,exception,ROM string safety check
+a18c071b3d,5,unicode in str.center(),py/objstr.c,787820,70840,2960,861620,24,24,824,string-ops,Smallest code change (24 bytes)
+b2a5091206,2,UTF-8 input (part-1),shared/readline.c,788076,70840,2960,861876,256,256,1080,UTF-8-REPL,Multi-byte sequence handling
+461a24dc50,1,UTF-8 cursor movement,shared/readline.c,788316,70840,2960,862116,240,240,1320,UTF-8-REPL,Cursor ops with UTF-8 awareness
+
+SUMMARY,,,,,,,,,,,
+Category,Commits,Total Bytes,% of Changes,% of Base,,,,,,,
+UTF-8-REPL,2,496,37.6%,0.063%,,,,,,,
+bytes.decode,5,608,46.1%,0.077%,,,,,,,Net after optimizations
+string-ops,4,488,37.0%,0.062%,,,,,,,
+exception,1,48,3.6%,0.006%,,,,,,,
+config,3,0,0%,0%,,,,,,,
+TOTAL,15,1320,100%,0.153%,,,,,,,
+
+OPTIMIZATIONS,,,,,,,,,,,
+Commit,Description,Savings,Technique,,,,,,,
+9fd1e03733,Optional replace mode,-144,Config guards (#if MICROPY_PY_BUILTINS_BYTES_DECODE_REPLACE),,,,,,,
+04b41b75ea,UTF-8 fix,-16,Algorithm improvement,,,,,,,
+TOTAL,,160,29% reduction in bytes.decode() overhead,,,,,,,

@@ -53,17 +53,17 @@ try:
     # Create test file with ASCII name
     with open("_test_ascii.txt", "w") as f:
         f.write("Hello, World!")
-    
+
     # Stat it
     st = os.stat("_test_ascii.txt")
     print(f"  Created: _test_ascii.txt")
     print(f"  Size: {st[6]} bytes")
-    
+
     # Read it back
     with open("_test_ascii.txt", "r") as f:
         content = f.read()
     print(f"  Content: {content}")
-    
+
     # Clean up
     os.remove("_test_ascii.txt")
     print("  Result: ✅ PASS")
@@ -78,16 +78,16 @@ try:
     # Create file with Unicode content
     with open("_test_content.txt", "w") as f:
         f.write("café ☕ 日本語 émoji 🎉")
-    
+
     # Read it back
     with open("_test_content.txt", "r") as f:
         content = f.read()
     print(f"  Written: café ☕ 日本語 émoji 🎉")
     print(f"  Read:    {content}")
-    
+
     # Clean up
     os.remove("_test_content.txt")
-    
+
     if content == "café ☕ 日本語 émoji 🎉":
         print("  Result: ✅ PASS")
     else:
@@ -145,4 +145,3 @@ for name in test_dirs:
 print()
 
 print("=" * 60)
-
