@@ -107,6 +107,6 @@ git submodule update --init
 
 - [mpbridge_container](https://github.com/Josverl/mpbridge_container) - Docker container for MicroPython Unix port with network bridge (useful for testing)
 - [micropython feat/MP_Bridge branch](https://github.com/Josverl/micropython/tree/feat/MP_Bridge) - MicroPython fork with MP_Bridge feature
-- [MP_Bridge PR to upstream](https://github.com/micropython/micropython/pull/16292) - Pull request to add mpremote_bridge to MicroPython
+- ~~[MP_Bridge PR to upstream](https://github.com/micropython/micropython/pull/16292) - Pull request to add mpremote_bridge to MicroPython~~
 - [mpremote documentation](https://docs.micropython.org/en/latest/reference/mpremote.html)
 - [MicroPython GitHub](https://github.com/micropython/micropython)
